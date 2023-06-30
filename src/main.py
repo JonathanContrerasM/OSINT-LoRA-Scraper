@@ -19,6 +19,8 @@ def process_linkedin():
     data = request.get_json()
     initial_input = data.get("name")
 
+    print("Scraping LinkedIn")
+
     linkedInURL = get_linkedin_url(initial_input)
     result = get_profile(linkedInURL)
 
@@ -30,6 +32,8 @@ def process_company():
     data = request.get_json()
     name = data.get("name")
     company = data.get("company")
+
+    print("Scraping Company Page")
 
     result = scrape_google_search(name, company)
 
@@ -46,6 +50,8 @@ def process_full_scrape():
     first_iteration = scrape_google_scholar(name, key_company)
     second_iteration = update_institution_names(first_iteration)
     pdf_text = search_report(event_name, key_company)
+
+    print(pdf_text)
 
     third_iteration = check_report_collaborations(second_iteration)
     project_name = get_company_from_text(pdf_text)

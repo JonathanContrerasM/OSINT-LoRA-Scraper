@@ -78,8 +78,5 @@ def electroSense_publications(dataset):
 
     updated_dataset = check_name_matches(dataset, new_dataset)
 
-    for x in updated_dataset:
-        print(x)
-
     print("Scraped ElectroSenses publications")
     return updated_dataset

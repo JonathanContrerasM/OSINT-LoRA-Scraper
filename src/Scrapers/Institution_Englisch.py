@@ -48,9 +48,7 @@ def update_institution_names(dataset):
         if institution and institution not in checked_names:
             question = "The following name of an institution, is this in English or in a different language?" + institution + ". if it is in English please return the same name. If it is not in English please return the name of the institution in English. Can you make sure to just return the name of the institution and dont say anything else."
 
-            print(f"Question: {question}")
             response = chat_with_gpt3(question)
-            print(f"Response: {response}")
             checked_names[institution] = response
 
         entry['Institution'] = checked_names.get(institution, institution)

@@ -46,9 +46,8 @@ def get_company_from_text(input_text):
     question = f"""
     i have this text string: 
     {input_text}
-    In here is a company name for sure. What is most likely to be a company name. 
-    Return a list of csv for every company you found"""
+    In here is a company name.  Please only provide the company name and do not elaborate anything else. Just return the "company name" not even the company name is etc..."""
 
     response = chat_with_gpt3(question)
-    print("Retrieved project name:" + response)
+    print("Retrieved project name: " + response)
     return response
