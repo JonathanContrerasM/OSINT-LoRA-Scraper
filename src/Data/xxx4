@@ -1,0 +1,277 @@
+/usr/bin/python3.10 /home/jonathan/UZH/Bachelor Thesis/Code/Scraper/src/Usable/Google Scholar Scraper 3.1.py
+----------------------Starting Point--------------------------
+Full name inferred: Alberto Huertas Celdran
+Google Scholar profile URL: https://scholar.google.com/citations?user=IFyGj20AAAAJ&hl=en
+----------------------Collecting Publications--------------------------
+Loaded all publications.
+119
+100%|██████████| 119/119 [00:55<00:00,  2.15it/s]
+Number of publications collected: 120
+Collaborations counted: 154
+Dataset updated: 154 records
+----------------------Scraping Collaborators--------------------------
+  0%|          | 0/154 [00:00<?, ?it/s]Skipping Timo Schenk - Not a Google Scholar link: https://arxiv.org/abs/2202.00137?hl=en
+ 12%|█▏        | 18/154 [00:42<04:10,  1.84s/it]Skipping Burkhard Stiller - Not a Google Scholar link: https://dblp.org/pid/00/4292?hl=en
+ 19%|█▉        | 30/154 [01:00<02:30,  1.22s/it]Skipping Adrian Lars Benjamin Iten - Not a Google Scholar link: https://arxiv.org/abs/2202.00137?hl=en
+ 21%|██▏       | 33/154 [01:10<04:13,  2.09s/it]Skipping Ricardo Marco Alaez - Not a Google Scholar link: http://orcid.org/0000-0002-4211-5223?hl=en
+ 25%|██▍       | 38/154 [01:22<04:45,  2.46s/it]Skipping Carlos Javier Del Canto Masa - Not a Google Scholar link: https://www.netzwerk-kinderrechte.ch/newsletter/countlinks.php?nid=25&uri=%2F%2Fsimpsaresnecerfudd.ga%2F113netzwerk-kinderrechtechcHx651&hl=en
+Skipping Giovanni Festa - Not a Google Scholar link: https://dblp.org/pid/288/6792.html?hl=en
+ 27%|██▋       | 42/154 [01:25<02:27,  1.31s/it]Skipping Fabio Paglianti - Not a Google Scholar link: https://www.15min-canadanews.com/?_=%2Fpid%2F288%2F7547.html%23KJWqMdlUlBnvKeEFHgjujsbhaohlCRGlrg%3D%3D&hl=en
+ 32%|███▏      | 49/154 [01:37<01:35,  1.10it/s]Skipping Jose Rafael Buendia Rubio - Not a Google Scholar link: https://www.mdpi.com/article/10.3390/plants12091921?type=check_update&version=2&hl=en
+ 36%|███▋      | 56/154 [01:53<01:56,  1.19s/it]Skipping Valerian Rey - Not a Google Scholar link: https://arxiv.org/abs/2104.09994?hl=en
+Skipping Elian Kraja - Not a Google Scholar link: https://dblp.org/pid/191/3332.html?hl=en
+Skipping Gines Dolera Tormo - Not a Google Scholar link: https://www.researchgate.net/scientific-contributions/Gines-Dolera-Tormo-2029605917?hl=en
+ 40%|███▉      | 61/154 [02:06<02:12,  1.42s/it]Skipping Jacobo Saenz - Not a Google Scholar link: https://dblp.org/pid/164/4627.html?hl=en
+ 40%|████      | 62/154 [02:16<05:04,  3.31s/it]Skipping Cristian Cadenas Sarmiento - Not a Google Scholar link: https://dblp.org/pid/255/8090.html?hl=en
+ 47%|████▋     | 73/154 [02:30<01:24,  1.04s/it]Skipping Mathias Strufe - Not a Google Scholar link: https://dblp.org/pid/203/1283?hl=en
+ 53%|█████▎    | 82/154 [02:46<01:25,  1.19s/it]Skipping Andreas Foglar - Not a Google Scholar link: https://dblp.org/pid/07/1593.html?hl=en
+ 64%|██████▎   | 98/154 [03:18<02:12,  2.36s/it]Skipping Jan Kreischer - Not a Google Scholar link: https://ch.linkedin.com/in/jan-kreischer?hl=en
+ 73%|███████▎  | 112/154 [03:45<02:11,  3.13s/it]Skipping Jose Manuel Hidalgo Rogel - Not a Google Scholar link: https://www.researchgate.net/profile/Jose-Manuel-Hidalgo-Rogel-2?hl=en
+100%|██████████| 154/154 [04:27<00:00,  1.74s/it]
+
+Scraping complete.
+Number of collaborators scraped: 154
+----------------------Finding Matches--------------------------
+Number of key persons found: 1
+Key Person: Gerome Bovet
+Google Scholar profile URL for key person: https://scholar.google.ch/citations?user=2KZnqU0AAAAJ&hl=en
+----------------------Collecting Publications for Key Person--------------------------
+Loaded all publications.
+66
+100%|██████████| 66/66 [00:29<00:00,  2.22it/s]
+Reduced dataset size: 65
+----------------------Scraping Collaborators for Key Person--------------------------
+ 25%|██▍       | 16/65 [00:31<00:49,  1.01s/it]Skipping Erma Perenda - Not a Google Scholar link: https://dblp.org/pid/143/8016?hl=en
+ 35%|███▌      | 23/65 [00:45<00:53,  1.26s/it]Skipping Gerrit Holtrup - Not a Google Scholar link: https://ch.linkedin.com/in/gerrit-holtrup-88b5399?hl=en
+ 38%|███▊      | 25/65 [00:57<01:52,  2.82s/it]Skipping Gilles Waeber - Not a Google Scholar link: https://ch.linkedin.com/in/gwaeber?hl=en
+ 45%|████▍     | 29/65 [00:59<00:46,  1.28s/it]Skipping William Lacube - Not a Google Scholar link: https://arxiv.org/abs/2108.08700?hl=en
+ 57%|█████▋    | 37/65 [01:19<01:05,  2.34s/it]Skipping Frank T Johnsen - Not a Google Scholar link: https://dblp.org/pid/15/4038?hl=en
+ 77%|███████▋  | 50/65 [01:43<00:29,  1.97s/it]Skipping Vladimir Volski - Not a Google Scholar link: https://dblp.org/pid/194/8608.html?hl=en
+ 85%|████████▍ | 55/65 [01:55<00:20,  2.05s/it]Skipping Vladimir Volskiy - Not a Google Scholar link: https://www.researchgate.net/scientific-contributions/Vladimir-Volskiy-58168534?hl=en
+100%|██████████| 65/65 [02:06<00:00,  1.94s/it]
+
+Scraping complete.
+Merged dataset size: 219
+----------------------Final Scholar Dataset--------------------------
+{'Name': 'Gregorio Martinez Perez', 'Collaborations': 99, 'Institution': 'Full Professor of Computer Science, University of Murcia, Spain', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l1scgGQAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Manuel Gil Perez', 'Collaborations': 48, 'Institution': 'Associate Professor, University of Murcia, Spain', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Tx1d6DMAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Pedro Miguel Sanchez Sanchez', 'Collaborations': 42, 'Institution': 'PhD fellow, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RMS2xxkAAAAJ&citpid=7', 'Iteration': 1}
+{'Name': 'Felix J Garcia Clemente', 'Collaborations': 36, 'Institution': 'Full Professor of Computer Engineering, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WaQfrJ0AAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Gerome Bovet', 'Collaborations': 32, 'Institution': 'armasuisse, Cyber-Defence Campus', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2KZnqU0AAAAJ&citpid=4', 'Iteration': 1}
+{'Name': 'Sergio Lopez Bernal', 'Collaborations': 26, 'Institution': 'PhD student, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tebi39sAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Lorenzo Fernandez Maimo', 'Collaborations': 19, 'Institution': 'Associate Professor of Computer Science. University of Murcia.', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Burkhard Stiller', 'Collaborations': 19, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Jose Maria Jorquera Valero', 'Collaborations': 18, 'Institution': 'Investigador Colaborador, Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YDZEKWMAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Enrique Tomas Martinez Beltran', 'Collaborations': 13, 'Institution': 'PhD student in Computer Science, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jSSPyXUAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Mario Quiles Perez', 'Collaborations': 11, 'Institution': 'PhD Student, University of Murcia', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Angel Luis Perales Gomez', 'Collaborations': 9, 'Institution': 'Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZF7l9QcAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Mattia Zago', 'Collaborations': 7, 'Institution': 'PhD @ University of Murcia; Solutions Architect @ Athesis s.r.l.', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=duHy5tYAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Felix Gomez Marmol', 'Collaborations': 7, 'Institution': 'Associate Professor, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YFwhSEcAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Pantaleone Nespoli', 'Collaborations': 6, 'Institution': 'University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0AahIdoAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Jose M Alcaraz Calero', 'Collaborations': 6, 'Institution': 'Full Professor in Cognitive Networks and Services, University of the West of Scotland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=x0k8S-4AAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Pietro G Giardina', 'Collaborations': 5, 'Institution': 'Nextworks s.r.l.', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HEyJ1CkAAAAJ&citpid=4', 'Iteration': 1}
+{'Name': 'Giacomo Bernini', 'Collaborations': 5, 'Institution': 'R&D Project Manager, Nextworks', 'ImageLink': 'https://scholar.google.it/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Jose A Ruiperez-Valiente', 'Collaborations': 4, 'Institution': 'Associate Professor, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MNl7XBEAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Qi Wang', 'Collaborations': 4, 'Institution': 'Columbia University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Cpvr6NgAAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Timo Schenk', 'Collaborations': 4, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Pedro M Sanchez Sanchez', 'Collaborations': 4, 'Institution': 'PhD fellow, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RMS2xxkAAAAJ&citpid=7', 'Iteration': 1}
+{'Name': 'Javier Pastor-Galindo', 'Collaborations': 3, 'Institution': 'FPU-MECD Predoctoral Researcher, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_mCX14EAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Fabrizio Ippoliti', 'Collaborations': 3, 'Institution': 'Ph.D. in Computer Science, University of Camerino', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=emxx_GkAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Konstantinos Koutsopoulos', 'Collaborations': 3, 'Institution': 'University of Thessaly, Greece', 'ImageLink': 'https://scholar.google.gr/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Pedro Neves', 'Collaborations': 3, 'Institution': 'Nova School of Business and Economics', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OCsry84AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Alexios Lekidis', 'Collaborations': 3, 'Institution': 'Public Power Corporation', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6fna28gAAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Javier Fernandez Hidalgo', 'Collaborations': 3, 'Institution': 'Materials Science and Engineering, TU Delft', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=x_CE4E0AAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Jan von der Assen', 'Collaborations': 3, 'Institution': 'University of Zurich', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Angel L Perales Gomez', 'Collaborations': 2, 'Institution': 'Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZF7l9QcAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'James Weimer', 'Collaborations': 2, 'Institution': 'Vanderbilt University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IeuLakwAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Insup Lee', 'Collaborations': 2, 'Institution': 'Professor, Computer and Information Science, University of Pennsylvania', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qPlUgrgAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Michael Taynnan Barros', 'Collaborations': 2, 'Institution': 'Assistant Professor (UK Lecturer), University of Essex, UK', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5hMg0soAAAAJ&citpid=10', 'Iteration': 1}
+{'Name': 'Sasitharan Balasubramaniam', 'Collaborations': 2, 'Institution': 'University of Nebraska-Lincoln', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4Fu1VZgAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Ricardo Marco Alaez', 'Collaborations': 2, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Gino Carrozzo', 'Collaborations': 2, 'Institution': 'Rakuten Symphony', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1lOR3j8AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Marcos Arjona Fernandez', 'Collaborations': 2, 'Institution': 'Purdue University College of Agriculture', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hoBhd2MAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Kallol Krishna Karmakar', 'Collaborations': 2, 'Institution': 'Research Lecturer, ACSRC, University of Newcastle', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fcS17jIAAAAJ&citpid=7', 'Iteration': 1}
+{'Name': 'Vijay Varadharajan', 'Collaborations': 2, 'Institution': 'The University if Newcastle', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ru4cV0EAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Adrian Lars Benjamin Iten', 'Collaborations': 2, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Juan Manuel Espin Lopez', 'Collaborations': 2, 'Institution': 'Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BoCjjmMAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Javier G Marin-Blazquez', 'Collaborations': 2, 'Institution': 'Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=goFzuxkAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Francisco Esquembre', 'Collaborations': 2, 'Institution': 'Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=njWGaDoAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Izidor Mlakar', 'Collaborations': 2, 'Institution': 'University Of Maribor, Sfera IT d.o.o., A1 Slovenija d.d.', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Daniel Perez Martins', 'Collaborations': 2, 'Institution': 'Walton Institute for Information and Communication Systems Science, Waterford Institute of', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hXhd7MoAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'M Shuaib Siddiqui', 'Collaborations': 2, 'Institution': 'Fundacio i2CAT', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EF4BYMUAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Javier Martinez Valverde', 'Collaborations': 2, 'Institution': 'Doñana Biological Station', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Felix Jesus Garcia Clemente', 'Collaborations': 2, 'Institution': 'Full Professor of Computer Engineering, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WaQfrJ0AAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Melike Demirci', 'Collaborations': 2, 'Institution': 'Lloyd and Dorothy Huck Chair Professor in Biomimetic Materials and Director of CRAFT center', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AQfMVysAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Joel Leupp', 'Collaborations': 2, 'Institution': 'North Dakota State University', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Muriel Figueredo Franco', 'Collaborations': 2, 'Institution': 'Federal University of Rio Grande do Sul', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fBUGXbMAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Daniel Demeter', 'Collaborations': 2, 'Institution': 'Junior Leader of la Caixa Incoming at CBGP-UPM', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=W_V2098AAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jose Rafael Buendia Rubio', 'Collaborations': 2, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Valerian Rey', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Cristian Cadenas Sarmiento', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Carlos Javier Del Canto Masa', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Ruben Mendez Nistal', 'Collaborations': 1, 'Institution': 'Massachusetts Institute of Technology', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VcIoTvcAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Enrique Chirivella-Perez', 'Collaborations': 1, 'Institution': 'University West Of Scotland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sOy7YAIAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Elian Kraja', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Jacobo Saenz', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Luis De La Torre', 'Collaborations': 1, 'Institution': 'Departamento Informática y Automática UNED', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vLJ-TV8AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Christophe Salzmann', 'Collaborations': 1, 'Institution': 'EPFL', 'ImageLink': 'https://scholar.google.ch/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Denis Gillet', 'Collaborations': 1, 'Institution': 'Ecole Polytechnique Fédérale de Lausanne (EPFL)', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eDrc2o8AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Sergio De Los Santos Vilchez', 'Collaborations': 1, 'Institution': 'Instituto Tecnológico de Sonora', 'ImageLink': 'https://scholar.google.com.mx/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Felix J Garcia Clernente', 'Collaborations': 1, 'Institution': 'Full Professor of Computer Engineering, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WaQfrJ0AAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Miguel Azorin Castillo', 'Collaborations': 1, 'Institution': 'Universidad Autónoma de Nuevo León', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sw5plS4AAAAJ&citpid=4', 'Iteration': 1}
+{'Name': 'Frances Cleary', 'Collaborations': 1, 'Institution': 'South East Technological University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mYQ_jrcAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Guojun Wang', 'Collaborations': 1, 'Institution': 'Harbor Branch Oceanographic Institute, Florida Atlantic University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JpfqnFgAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Gines Dolera Tormo', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Simone Pizzimenti', 'Collaborations': 1, 'Institution': 'Technologist, Istituto Nazionale di Geofisica e Vulcanologia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qVdHWBsAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Giovanni Festa', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Fabio Paglianti', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Chandra Thapa', 'Collaborations': 1, 'Institution': 'CSIRO Data61', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RN1ptTEAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Seyit Camtepe', 'Collaborations': 1, 'Institution': 'CSIRO Data61', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CLpWx6IAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Surya Nepal', 'Collaborations': 1, 'Institution': 'CSIRO’s Data61, Australia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ge6zzwIAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Maria Jesus Rodriguez-Triana', 'Collaborations': 1, 'Institution': 'Associate Professor, Tallinn University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bb0zCMEAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Shashi Kant Shankar', 'Collaborations': 1, 'Institution': 'Assistant Professor, School of Social and Behavioral Sciences, AMMACHI Labs, Amrita Vishwa', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=W-7MeiUAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Zakirul A Bhuiyan', 'Collaborations': 1, 'Institution': 'Associate Professor, Maritime Simulation and Autonomy, Solent University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=skLI05MAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Muhammad Shuaib Siddiqui', 'Collaborations': 1, 'Institution': 'Fundacio i2CAT', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EF4BYMUAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jordan Cedeno', 'Collaborations': 1, 'Institution': 'Universidad de Guayaquil', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K-TMpiYAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jose M Jorquera Valero', 'Collaborations': 1, 'Institution': 'Investigador Colaborador, Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YDZEKWMAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Eduardo Lopez Bernal', 'Collaborations': 1, 'Institution': 'CEBAS-CSIC', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Javier Pastor Galindo', 'Collaborations': 1, 'Institution': 'FPU-MECD Predoctoral Researcher, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_mCX14EAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Fabio Sisi', 'Collaborations': 1, 'Institution': 'Full Professor, Università Degli Studi di Milano', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8o2irqwAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Pedro Martins', 'Collaborations': 1, 'Institution': 'Assitant Researcher, University of Minho', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gNjvFEIAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Pedro Diogo', 'Collaborations': 1, 'Institution': 'Machine Learning Researcher, Fraunhofer Portugal AICOS', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=t44Nb3UAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Marian Ulbricht', 'Collaborations': 1, 'Institution': 'InnoRoute GmbH', 'ImageLink': 'https://scholar.google.de/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Andreas Foglar', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'James Nightingale', 'Collaborations': 1, 'Institution': 'Postgraduate Researcher in Physics, Imperial College London', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=p0fNraMAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Pablo Salva Garcia', 'Collaborations': 1, 'Institution': 'University of the West of Scotland (UK)', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XuACmLIAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Enrique Chirivella Perez', 'Collaborations': 1, 'Institution': 'University West Of Scotland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sOy7YAIAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Rui Pedro', 'Collaborations': 1, 'Institution': 'Professor @ University of Coimbra, Portugal', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7kSr88YAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Nuno Henriques', 'Collaborations': 1, 'Institution': 'Universidade de Lisboa', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dc-d5kYAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Joao Silva', 'Collaborations': 1, 'Institution': 'Senior Research Fellow, CCMAR - Centre of Marine Sciences', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=m4Zl9_AAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Manuel Araujo', 'Collaborations': 1, 'Institution': 'Unknown affiliation', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Manuel Fernandes', 'Collaborations': 1, 'Institution': 'Professor of Plant Biology and Biotechnology, Faculty of Sciences, University of Porto', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Goncalo Gaspar', 'Collaborations': 1, 'Institution': 'Universidade Lusófona', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LFjrNaYAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Athanasios Kokkinis', 'Collaborations': 1, 'Institution': 'School of Social Sciences, Hellenic Open University, Greece', 'ImageLink': 'https://scholar.google.gr/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'John Vavourakis', 'Collaborations': 1, 'Institution': 'Lecturer of Special/Inclusive Education, The University of the South Pacific', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LF_CzosAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'George Giannopoulos', 'Collaborations': 1, 'Institution': 'Professor of Transport', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Jg5tuXAAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Nuno Ribeiro', 'Collaborations': 1, 'Institution': 'Centre of Competence Testing at Bosch CM | Ph.D candidate at University of Minho', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Rui Costa', 'Collaborations': 1, 'Institution': 'Professor, Columbia University', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Ricardo Preto', 'Collaborations': 1, 'Institution': 'Assistant Professor, Department of Computer Science, Federal University of São Carlos', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ro1p1sAAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Ricardo Machado', 'Collaborations': 1, 'Institution': 'Professor de Engenharia Elétrica, Universidade de São Paulo', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Tiago Teixeira', 'Collaborations': 1, 'Institution': 'UERJ', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ed7bSzQAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Mohammad Alselek', 'Collaborations': 1, 'Institution': 'University of the West of Scotland', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Rui Alheiro', 'Collaborations': 1, 'Institution': 'Associate Professor, University of Coimbra, Portugal', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=L4dw8sIAAAAJ&citpid=7', 'Iteration': 1}
+{'Name': 'Maria Sousa', 'Collaborations': 1, 'Institution': 'IDMEC, Instituto Superior Técnico, Universidade de Lisboa, Portugal', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ylpbdPoAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Marco Antonio Sotelo Monge', 'Collaborations': 1, 'Institution': 'Unknown affiliation', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=teI-Qm8AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Antonio Lopez Vivar', 'Collaborations': 1, 'Institution': 'Group of Analysis, Security and Systems, Department of Software Engineering and Artificial', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NwqD92wAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jorge Maestre Vidal', 'Collaborations': 1, 'Institution': 'Indra, Digital Labs', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=flMKkQYAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Luis Javier Garcia Villalba', 'Collaborations': 1, 'Institution': 'Group of Analysis, Security and Systems, Department of Software Engineering and Artificial', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KpFfGNYAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Jesus Alonso', 'Collaborations': 1, 'Institution': 'University of Las Palmas de Gran Canaria', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=C2cnl-AAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Wei Jiang', 'Collaborations': 1, 'Institution': 'Asa Griggs Candler Professor of Finance, Emory University Goizueta Business School', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Fu61e0wAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'Janis Zemitis', 'Collaborations': 1, 'Institution': 'DFKI GmbH', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Mathias Strufe', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Julian Ahrens', 'Collaborations': 1, 'Institution': 'Department for Migration and Globalisation, University for Continuing Education Krems', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Esl0xIIAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Hans D Schotten', 'Collaborations': 1, 'Institution': 'Univ. of Kaiserslautern, RPTU Kaiserslautern, DFKI GmbH', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ev-tjLMAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Anastasius Gavras', 'Collaborations': 1, 'Institution': 'Programme Manager, Eurescom GmbH', 'ImageLink': 'https://scholar.google.de/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Jan Kreischer', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Pedro M Sanchez', 'Collaborations': 1, 'Institution': 'PhD fellow, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RMS2xxkAAAAJ&citpid=7', 'Iteration': 1}
+{'Name': 'Ruben Ortega Romero', 'Collaborations': 1, 'Institution': 'Universidad de Granada', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Mw8iTSgAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Ning Xie', 'Collaborations': 1, 'Institution': 'Applied Scientist, Amazon.com', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Gtqv820AAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Javier Alejandro Maroto Morales', 'Collaborations': 1, 'Institution': 'PhD Student, EPFL', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Jan Bauer', 'Collaborations': 1, 'Institution': 'Vrije Universiteit Amsterdam', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gV3xbkkAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Chao Feng', 'Collaborations': 1, 'Institution': 'University at Buffalo', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=V9MMaEsAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jose Manuel Hidalgo Rogel', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 1}
+{'Name': 'Eder J Scheid', 'Collaborations': 1, 'Institution': 'Federal University of Rio Grande do Sul (UFRGS)', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JDLr9voAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Timucin Besken', 'Collaborations': 1, 'Institution': 'Bilkent University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=E1-shQUAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Sergio C Lopez-Garcia', 'Collaborations': 1, 'Institution': 'Facultad de Educacion. Universidad Pontificia de Salamanca', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FSPrAcAAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Paulo Chainho', 'Collaborations': 1, 'Institution': 'Researcher at Centro de Oceanografia, Faculdade de Ciências da Universidade de Lisboa', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=koD7RV8AAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Adriana Fernandez-Fernandez', 'Collaborations': 1, 'Institution': 'Senior Researcher, i2CAT Foundation', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VBdjxJQAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Joase Maria Jorquera Valero', 'Collaborations': 1, 'Institution': 'Investigador Colaborador, Universidad de Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YDZEKWMAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Jean-Marie Mifsud', 'Collaborations': 1, 'Institution': 'Unknown affiliation', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'Aleixos Lekidis', 'Collaborations': 1, 'Institution': 'Public Power Corporation', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6fna28gAAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'Bruno Santos', 'Collaborations': 1, 'Institution': 'Instituto de Sistemas e Robótica - Universidade de Coimbra', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=C2gaCg8AAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'Antonie Sciberras', 'Collaborations': 1, 'Institution': 'University of Malta', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jI1Mll8AAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'A Kapitonov', 'Collaborations': 1, 'Institution': 'ITMO University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=J3HFpjoAAAAJ&citpid=4', 'Iteration': 1}
+{'Name': 'I Berman', 'Collaborations': 1, 'Institution': 'Director, Leon H. Charney School of Marine Sciences, University of Haifa', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nzoGKKEAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'V Bulatov', 'Collaborations': 1, 'Institution': 'Lawrence Livermore National Laboratory', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'S Lonshakov', 'Collaborations': 1, 'Institution': 'Software architect at Robonomics.network', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0c53yygAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'A Krupenkin', 'Collaborations': 1, 'Institution': 'Airalab', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=H4KTl7kAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'P Nespoli', 'Collaborations': 1, 'Institution': 'University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0AahIdoAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'M Zago', 'Collaborations': 1, 'Institution': 'PhD @ University of Murcia; Solutions Architect @ Athesis s.r.l.', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=duHy5tYAAAAJ&citpid=5', 'Iteration': 1}
+{'Name': 'MG Perez', 'Collaborations': 1, 'Institution': 'Full Professor of Computer Science, University of Murcia, Spain', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l1scgGQAAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'FG Marmol', 'Collaborations': 1, 'Institution': 'Associate Professor, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YFwhSEcAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'AH Celdran', 'Collaborations': 1, 'Institution': 'University of Zurich', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IFyGj20AAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'Clernente FJ Garcia', 'Collaborations': 1, 'Institution': 'Full Professor of Computer Engineering, University of Murcia', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WaQfrJ0AAAAJ&citpid=6', 'Iteration': 1}
+{'Name': 'A Seitz', 'Collaborations': 1, 'Institution': 'Professor of Professor of Psychology, Physical Therapy, Art + Design, Northeastern University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-DNDu_sAAAAJ&citpid=4', 'Iteration': 1}
+{'Name': 'D Henze', 'Collaborations': 1, 'Institution': 'Executive Director Neuroscience, Merck & Co. Inc.', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 1}
+{'Name': 'D Miehle', 'Collaborations': 1, 'Institution': 'TU Munich', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=68q6RvgAAAAJ&citpid=1', 'Iteration': 1}
+{'Name': 'B Bruegge', 'Collaborations': 1, 'Institution': 'Professor, Computer Science, Technische Universität München (Technical University Munich)', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=io5O8OUAAAAJ&citpid=2', 'Iteration': 1}
+{'Name': 'J Nickles', 'Collaborations': 1, 'Institution': 'Assistant Professor, University of Cincinnati', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=60BYHTwAAAAJ&citpid=14', 'Iteration': 1}
+{'Name': 'M Sauer', 'Collaborations': 1, 'Institution': 'Cyrus Biotechnology', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CngVjg8AAAAJ&citpid=3', 'Iteration': 1}
+{'Name': 'Alberto Huertas Celdran', 'Collaborations': 26, 'Institution': 'University of Zurich', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IFyGj20AAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Jean Hennebert', 'Collaborations': 18, 'Institution': 'Full Professor in Machine Learning, University of Applied Sciences, HES-SO. Institute lead at iCoSys', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=d_6NQwsAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Roberto Calvo-Palomino', 'Collaborations': 6, 'Institution': 'Associate Professor @ Universidad Rey Juan Carlos', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2PNQ7soAAAAJ&citpid=6', 'Iteration': 2}
+{'Name': 'Sofie Pollin', 'Collaborations': 6, 'Institution': 'Professor Electrical Engineering, KU Leuven', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wAIEL8QAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Domenico Giustiniano', 'Collaborations': 5, 'Institution': 'Research Associate Professor (tenured), IMDEA Networks Institute, Madrid, Spain', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=L38f7A0AAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Erma Perenda', 'Collaborations': 5, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Antonio Ridi', 'Collaborations': 5, 'Institution': 'University of Applied Sciences of Western Switzerland; University of Fribourg Switzerland,', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Mariya Zheleva', 'Collaborations': 4, 'Institution': 'University at Albany SUNY', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eEqTPcwAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Sreeraj Rajendran', 'Collaborations': 3, 'Institution': 'Senior Data Scientist, EluciDATA Lab, Sirris', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8bMW41IAAAAJ&citpid=4', 'Iteration': 2}
+{'Name': 'Jean-Frederic Wagen', 'Collaborations': 3, 'Institution': 'Professor, ICT, HES-SO//Fribourg (Switzerland)', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Francois Buntschu', 'Collaborations': 3, 'Institution': 'Professor of networking, University of applied sciences of Wester Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7bKTt1EAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Christophe Gisler', 'Collaborations': 3, 'Institution': 'University of Applied Sciences of Western Switzerland; University of Fribourg, Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RSdHrqYAAAAJ&citpid=4', 'Iteration': 2}
+{'Name': 'Vincent Lenders', 'Collaborations': 3, 'Institution': 'Cyber-Defence Campus, armasuisse', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vJcIFDYAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Franco Minucci', 'Collaborations': 3, 'Institution': 'PhD Student, KU Leuven', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=w_KN2gwAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Javier Maroto', 'Collaborations': 3, 'Institution': 'PhD Student, EPFL', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Pascal Frossard', 'Collaborations': 3, 'Institution': 'Ecole Polytechnique Fédérale de Lausanne, EPFL', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-Ve9sJ0AAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Alberto Huertas', 'Collaborations': 3, 'Institution': 'University of Zurich', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IFyGj20AAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Arani Bhattacharya', 'Collaborations': 2, 'Institution': 'Assistant Professor, IIIT-Delhi', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YjiIDkjozUcC&citpid=4', 'Iteration': 2}
+{'Name': 'Brecht Reynders', 'Collaborations': 2, 'Institution': 'KU Leuven', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Hazem Sallouha', 'Collaborations': 2, 'Institution': 'Postdoctoral researcher at KU Leuven - ESAT', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EVobYTMAAAAJ&citpid=16', 'Iteration': 2}
+{'Name': 'Matthias Schafer', 'Collaborations': 2, 'Institution': 'Medical University of Vienna', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FhfNMaQAAAAJ&citpid=5', 'Iteration': 2}
+{'Name': 'Dieter Verbruggen', 'Collaborations': 2, 'Institution': 'Ghent University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GfHmv20AAAAJ&citpid=4', 'Iteration': 2}
+{'Name': 'Gregorio Martinez', 'Collaborations': 2, 'Institution': 'Full Professor of Computer Science, University of Murcia, Spain', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l1scgGQAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Alexandre Nikodemski', 'Collaborations': 1, 'Institution': 'Associate Professor at Clemson University', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sF_wEtkAAAAJ&citpid=6', 'Iteration': 2}
+{'Name': 'Nikos Zarkadis', 'Collaborations': 1, 'Institution': 'EPFL Solar Energy and Building Physics Laboratory (LESO-PB)', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Nicolas Morel', 'Collaborations': 1, 'Institution': 'INRA - CEFS', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PkIFfp4AAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Simon Ruffieux', 'Collaborations': 1, 'Institution': 'Senior Researcher, Human-IST Institute (University of Fribourg) and HumanTech Institute (HES-SO)', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uWAPGfMAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Gerrit Holtrup', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'William Lacube', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Dimitri Percia David', 'Collaborations': 1, 'Institution': 'Professor, University of Applied Sciences of Western Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jaOEkHcAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Alain Mermoud', 'Collaborations': 1, 'Institution': 'Cyber-Defence Campus, armasuisse Science and Technology, Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JRi2nLoAAAAJ&citpid=5', 'Iteration': 2}
+{'Name': 'Hennebert Jean', 'Collaborations': 1, 'Institution': 'Full Professor in Machine Learning, University of Applied Sciences, HES-SO. Institute lead at iCoSys', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=d_6NQwsAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Frank T Johnsen', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Trude Hafsoe Bloebaum', 'Collaborations': 1, 'Institution': 'University of Oslo', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JM0b8ugAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Norman Jansen', 'Collaborations': 1, 'Institution': 'Professor of Physics, Oregon State University', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Marco Manso', 'Collaborations': 1, 'Institution': 'EDGENEERING', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=qQokFSYAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Andrew Toth', 'Collaborations': 1, 'Institution': 'Lecturer, University of Limerick', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KVBavT8AAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Kevin Chan', 'Collaborations': 1, 'Institution': 'NeuroImaging and Visual Science Laboratory, New York University Grossman School of Medicine', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1D0pvn0AAAAJ&citpid=7', 'Iteration': 2}
+{'Name': 'G Bovet', 'Collaborations': 1, 'Institution': 'armasuisse, Cyber-Defence Campus', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2KZnqU0AAAAJ&citpid=4', 'Iteration': 2}
+{'Name': 'H Hennebert', 'Collaborations': 1, 'Institution': 'Full Professor in Machine Learning, University of Applied Sciences, HES-SO. Institute lead at iCoSys', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=d_6NQwsAAAAJ&citpid=3', 'Iteration': 2}
+{'Name': 'Yago Lizarribar', 'Collaborations': 1, 'Institution': 'IMDEA Networks Institute', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7IsJtboAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Markus Fuchs', 'Collaborations': 1, 'Institution': 'JLU Giessen', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Markus Engel', 'Collaborations': 1, 'Institution': 'Technische Universität Kaiserslautern', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Bertold Van den Bergh', 'Collaborations': 1, 'Institution': 'KU Leuven', 'ImageLink': 'https://scholar.google.be/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Victor Adalid', 'Collaborations': 1, 'Institution': 'University of Applied Sciences of Western Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iDAaiPoAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Gilles Waeber', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Gautier Briard', 'Collaborations': 1, 'Institution': 'PhD - Product Marketing Manager - AMAT', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xWowqjM7xgwC&citpid=2', 'Iteration': 2}
+{'Name': 'Grazia Barchi', 'Collaborations': 1, 'Institution': 'Senior Researcher at EURAC Research', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=51Vd7UoAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Elena Mugellini', 'Collaborations': 1, 'Institution': 'Computer Science Professor, HES-SO - University of Applied Sciences and Arts Western Switzerland', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZL3WQEMAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Yijing Zeng', 'Collaborations': 1, 'Institution': 'Meta', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Suman Banerjee', 'Collaborations': 1, 'Institution': 'UW-Madison', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cLb-v7gAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Hazem Sallouah', 'Collaborations': 1, 'Institution': 'Postdoctoral researcher at KU Leuven - ESAT', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EVobYTMAAAAJ&citpid=16', 'Iteration': 2}
+{'Name': 'Vladimir Volski', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Guy Vandenbosch', 'Collaborations': 1, 'Institution': 'Professor of Electromagnetic Radiation, WaveCoRE research group, Katholieke Universiteit Leuven', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=og_okykAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Alessio Scalingi', 'Collaborations': 1, 'Institution': 'IMDEA Networks Institute', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4Tmxt9UAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Nikolaos Apostolakis', 'Collaborations': 1, 'Institution': 'IMDEA Networks Institute, Universidad Carlos III de Madrid', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Vladimir Volskiy', 'Collaborations': 1, 'Institution': None, 'ImageLink': None, 'Iteration': 2}
+{'Name': 'Pedro Sanchez', 'Collaborations': 1, 'Institution': 'Research Professor Soil Science University of Florida', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=horWDD8AAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Franco Minucci Minucci', 'Collaborations': 1, 'Institution': 'PhD Student, KU Leuven', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=w_KN2gwAAAAJ&citpid=1', 'Iteration': 2}
+{'Name': 'Roberto Calvo-Palomino Calvo-Palomino', 'Collaborations': 1, 'Institution': 'Associate Professor @ Universidad Rey Juan Carlos', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2PNQ7soAAAAJ&citpid=6', 'Iteration': 2}
+{'Name': 'Gerome Bovet Bovet', 'Collaborations': 1, 'Institution': 'armasuisse, Cyber-Defence Campus', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2KZnqU0AAAAJ&citpid=4', 'Iteration': 2}
+{'Name': 'Brecht Reynders Reynders', 'Collaborations': 1, 'Institution': 'KU Leuven', 'ImageLink': 'https://scholar.google.com/citations/images/avatar_scholar_128.png', 'Iteration': 2}
+{'Name': 'Matthias Schafer Schafer', 'Collaborations': 1, 'Institution': 'Medical University of Vienna', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FhfNMaQAAAAJ&citpid=5', 'Iteration': 2}
+{'Name': 'Vincent Lenders Lenders', 'Collaborations': 1, 'Institution': 'Cyber-Defence Campus, armasuisse', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vJcIFDYAAAAJ&citpid=2', 'Iteration': 2}
+{'Name': 'Kevin S Chan', 'Collaborations': 1, 'Institution': 'Texas A&M University Baylor College of Dentistry; University of North Carolina at Chapel Hill', 'ImageLink': 'https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5TiwpnwAAAAJ&citpid=1', 'Iteration': 2}
+Total number of collaborators in final dataset: 219
+
+Process finished with exit code 0

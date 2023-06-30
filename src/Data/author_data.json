@@ -1,0 +1,4148 @@
+{
+  "author": {
+    "container_type": "Author",
+    "filled": [
+      "basics",
+      "indices",
+      "counts",
+      "coauthors",
+      "publications",
+      "public_access"
+    ],
+    "source": "SEARCH_AUTHOR_SNIPPETS",
+    "scholar_id": "IFyGj20AAAAJ",
+    "url_picture": "https://scholar.google.com/citations?view_op=medium_photo&user=IFyGj20AAAAJ",
+    "name": "Alberto Huertas Celdran",
+    "affiliation": "University of Zurich",
+    "email_domain": "@ifi.uzh.ch",
+    "interests": [
+      "Cybersecurity",
+      "IoT",
+      "Brain-Computer Interfaces",
+      "Federated Learning",
+      "Trusted AI"
+    ],
+    "citedby": 1233,
+    "organization": 9854027716846215422,
+    "citedby5y": 1173,
+    "hindex": 19,
+    "hindex5y": 18,
+    "i10index": 32,
+    "i10index5y": 32,
+    "cites_per_year": {
+      "2014": 4,
+      "2015": 13,
+      "2016": 22,
+      "2017": 18,
+      "2018": 49,
+      "2019": 82,
+      "2020": 151,
+      "2021": 276,
+      "2022": 419,
+      "2023": 189
+    },
+    "coauthors": [
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "l1scgGQAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Gregorio Martinez Perez",
+        "affiliation": "Full Professor of Computer Science, University of Murcia, Spain"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "Tx1d6DMAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Manuel Gil P\u00e9rez",
+        "affiliation": "Associate Professor, University of Murcia, Spain"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "WaQfrJ0AAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Felix J. Garcia Clemente",
+        "affiliation": "Full Professor of Computer Engineering, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "RMS2xxkAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Pedro Miguel Sanchez Sanchez",
+        "affiliation": "PhD fellow, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "tebi39sAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Sergio L\u00f3pez Bernal",
+        "affiliation": "PhD student, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "2KZnqU0AAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "G\u00e9r\u00f4me Bovet",
+        "affiliation": "armasuisse, Cyber-Defence Campus"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "NJcxK4QAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Lorenzo Fern\u00e1ndez Maim\u00f3",
+        "affiliation": "Associate Professor of Computer Science. University of Murcia."
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "YDZEKWMAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Jos\u00e9 Mar\u00eda Jorquera Valero",
+        "affiliation": "Investigador Colaborador, Universidad de Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "ZF7l9QcAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "\u00c1ngel Luis Perales G\u00f3mez",
+        "affiliation": "Universidad de Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "YFwhSEcAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "F\u00e9lix G\u00f3mez M\u00e1rmol",
+        "affiliation": "Associate Professor, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "jSSPyXUAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Enrique Tom\u00e1s Mart\u00ednez Beltr\u00e1n",
+        "affiliation": "PhD student in Computer Science, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "0AahIdoAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Pantaleone Nespoli",
+        "affiliation": "University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "lE9P7i0AAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Mario Quiles Perez",
+        "affiliation": "PhD Student, University of Murcia"
+      },
+      {
+        "container_type": "Author",
+        "filled": [],
+        "scholar_id": "fcS17jIAAAAJ",
+        "source": "CO_AUTHORS_LIST",
+        "name": "Kallol Krishna Karmakar",
+        "affiliation": "Research Lecturer, ACSRC, University of Newcastle"
+      }
+    ],
+    "publications": [
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SeCoMan: A semantic-aware policy framework for developing privacy-preserving and context-aware smart applications",
+          "pub_year": 2014,
+          "citation": "IEEE Systems Journal 10 (3), 1111-1124, 2014",
+          "author": "Alberto Huertas Celdr\u00e1n and F\u00e9lix J Garc\u00eda Clemente and Manuel Gil P\u00e9rez and Gregorio Mart\u00ednez P\u00e9rez",
+          "journal": "IEEE Systems Journal",
+          "volume": "10",
+          "number": "3",
+          "pages": "1111-1124",
+          "publisher": "IEEE",
+          "abstract": "This paper is intended to provide a solution for developing context-aware smart applications preserving the users' privacy in the Internet of Things (IoT). In this sense, we present a framework called Semantic Web-based Context Management (SeCoMan) aimed at offering a set of predefined queries to provide applications with information about indoor location of users and objects, as well as context-aware services. SeCoMan uses a semantic-oriented IoT vision where semantic technologies play a key role. In fact, SeCoMan uses Semantic Web for modeling description of things, reasoning over data to infer new knowledge, and defining context-aware policies. SeCoMan also defines a layered architecture, including functions related to the management of the users' privacy in a manner that accommodate IoT requirements, in addition to not affecting system performance nor introducing excessive overheads. A \u2026"
+        },
+        "filled": true,
+        "author_pub_id": "IFyGj20AAAAJ:u5HHmVD_uO8C",
+        "num_citations": 102,
+        "citedby_url": "/scholar?hl=en&cites=5536760395315530280",
+        "cites_id": [
+          "5536760395315530280"
+        ],
+        "pub_url": "https://ieeexplore.ieee.org/abstract/document/6718051/",
+        "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KMo7mT6G1kwJ:scholar.google.com/",
+        "cites_per_year": {
+          "2014": 3,
+          "2015": 12,
+          "2016": 12,
+          "2017": 5,
+          "2018": 17,
+          "2019": 12,
+          "2020": 21,
+          "2021": 10,
+          "2022": 8,
+          "2023": 1
+        }
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Federated learning for malware detection in iot devices",
+          "pub_year": "2022",
+          "citation": "Computer Networks 204, 108693, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:M05iB0D1s5AC",
+        "num_citations": 97,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436228223962277262",
+        "cites_id": [
+          "436228223962277262"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Intelligent and dynamic ransomware spread detection and mitigation in integrated clinical environments",
+          "pub_year": "2019",
+          "citation": "Sensors 19 (5), 1114, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:4TOpqqG69KYC",
+        "num_citations": 84,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12466078248940231244",
+        "cites_id": [
+          "12466078248940231244"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Security in brain-computer interfaces: state-of-the-art, opportunities, and future challenges",
+          "pub_year": "2021",
+          "citation": "ACM Computing Surveys (CSUR) 54 (1), 1-35, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:9ZlFYXVOiuMC",
+        "num_citations": 66,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5370912080009076587,6321028198526739386",
+        "cites_id": [
+          "5370912080009076587",
+          "6321028198526739386"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A survey on device behavior fingerprinting: Data sources, techniques, application scenarios, and datasets",
+          "pub_year": "2021",
+          "citation": "IEEE Communications Surveys & Tutorials 23 (2), 1048-1077, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:blknAaTinKkC",
+        "num_citations": 63,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10525986513512624307",
+        "cites_id": [
+          "10525986513512624307"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Dynamic management of a deep learning-based anomaly detection system for 5G networks",
+          "pub_year": "2019",
+          "citation": "Journal of Ambient Intelligence and Humanized Computing 10, 3083-3097, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:LkGwnXOMwfcC",
+        "num_citations": 58,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14199029335666907338",
+        "cites_id": [
+          "14199029335666907338"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "On the generation of anomaly detection datasets in industrial control systems",
+          "pub_year": "2019",
+          "citation": "IEEE Access 7, 177460-177473, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:qUcmZB5y_30C",
+        "num_citations": 53,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182162143817109752",
+        "cites_id": [
+          "7182162143817109752"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Spotting political social bots in Twitter: A use case of the 2019 Spanish general election",
+          "pub_year": "2020",
+          "citation": "IEEE Transactions on Network and Service Management 17 (4), 2156-2170, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:TQgYirikUcIC",
+        "num_citations": 47,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12371411635286995898",
+        "cites_id": [
+          "12371411635286995898"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Design of a recommender system based on users\u2019 behavior and collaborative location and tracking",
+          "pub_year": "2016",
+          "citation": "Journal of Computational Science 12, 83-94, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:9yKSN-GCB0IC",
+        "num_citations": 40,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3325195859839777745",
+        "cites_id": [
+          "3325195859839777745"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Dynamic reconfiguration in 5G mobile networks to proactively detect and mitigate botnets",
+          "pub_year": "2017",
+          "citation": "IEEE Internet Computing 21 (5), 28-36, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:ufrVoPGSRksC",
+        "num_citations": 35,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=467739374714541098",
+        "cites_id": [
+          "467739374714541098"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Sustainable securing of medical cyber-physical systems for the healthcare of the future",
+          "pub_year": "2018",
+          "citation": "Sustainable Computing: Informatics and Systems 19, 138-146, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:_FxGoFyzp5QC",
+        "num_citations": 34,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17417802977937267201",
+        "cites_id": [
+          "17417802977937267201"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Madics: A methodology for anomaly detection in industrial control systems",
+          "pub_year": "2020",
+          "citation": "Symmetry 12 (10), 1583, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:BqipwSGYUEgC",
+        "num_citations": 32,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16537687420041725544",
+        "cites_id": [
+          "16537687420041725544"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Self-organized laboratories for smart campus",
+          "pub_year": "2019",
+          "citation": "IEEE Transactions on Learning Technologies 13 (2), 404-416, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:QIV2ME_5wuYC",
+        "num_citations": 27,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8480797494792287328",
+        "cites_id": [
+          "8480797494792287328"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Towards the autonomous provision of self-protection capabilities in 5G networks",
+          "pub_year": "2019",
+          "citation": "Journal of Ambient Intelligence and Humanized Computing 10, 4707-4720, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:roLk4NBRz8UC",
+        "num_citations": 26,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12286754131781657907",
+        "cites_id": [
+          "12286754131781657907"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Cyberattacks on miniature brain implants to disrupt spontaneous neural signaling",
+          "pub_year": "2020",
+          "citation": "IEEE Access 8, 152204-152222, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:TFP_iSt0sucC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17356255784387214764",
+        "cites_id": [
+          "17356255784387214764"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "PRECISE: Privacy-aware recommender based on context information for cloud service environments",
+          "pub_year": "2014",
+          "citation": "IEEE Communications Magazine 52 (8), 90-96, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:u-x6o8ySG0sC",
+        "num_citations": 24,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3957885592910829342",
+        "cites_id": [
+          "3957885592910829342"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Improving the security and QoE in mobile devices through an intelligent and adaptive continuous authentication system",
+          "pub_year": "2018",
+          "citation": "Sensors 18 (11), 3769, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:YOwf2qJgpHMC",
+        "num_citations": 22,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1251434598932708907",
+        "cites_id": [
+          "1251434598932708907"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "PALOT: Profiling and authenticating users leveraging internet of things",
+          "pub_year": "2019",
+          "citation": "Sensors 19 (12), 2832, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:mVmsd5A6BfQC",
+        "num_citations": 20,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15716901413646889499",
+        "cites_id": [
+          "15716901413646889499"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "ICE++: improving security, QoS, and high availability of medical cyber-physical systems through mobile edge computing",
+          "pub_year": "2018",
+          "citation": "2018 IEEE 20th International Conference on e-Health Networking, Applications \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:hqOjcs7Dif8C",
+        "num_citations": 19,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16359025497731422632",
+        "cites_id": [
+          "16359025497731422632"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Automatic monitoring management for 5G mobile networks",
+          "pub_year": "2017",
+          "citation": "Procedia Computer Science 110, 328-335, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:WF5omc3nYNoC",
+        "num_citations": 17,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7585771745690291283",
+        "cites_id": [
+          "7585771745690291283"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SafeMan: A unified framework to manage cybersecurity and safety in manufacturing industry",
+          "pub_year": "2021",
+          "citation": "Software: Practice and Experience 51 (3), 607-627, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:JV2RwH3_ST0C",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7903711185185041609",
+        "cites_id": [
+          "7903711185185041609"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Dynamic network slicing management of multimedia scenarios for future remote healthcare",
+          "pub_year": "2019",
+          "citation": "Multimedia Tools and Applications 78, 24707-24737, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:MXK_kJrjxJIC",
+        "num_citations": 16,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1955008451485565470",
+        "cites_id": [
+          "1955008451485565470"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Preserving patients\u2019 privacy in health scenarios through a multicontext-aware system",
+          "pub_year": "2017",
+          "citation": "Annals of Telecommunications 72, 577-587, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:eQOLeE2rZwMC",
+        "num_citations": 15,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7993244881476178521",
+        "cites_id": [
+          "7993244881476178521"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Toward pre-standardization of reputation-based trust models beyond 5G",
+          "pub_year": "2022",
+          "citation": "Computer Standards & Interfaces 81, 103596, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:P5F9QuxV20EC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15232082316725628169",
+        "cites_id": [
+          "15232082316725628169"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Policy-based management for green mobile networks through software-defined networking",
+          "pub_year": "2019",
+          "citation": "Mobile Networks and Applications 24, 657-666, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Tyk-4Ss8FVUC",
+        "num_citations": 14,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17710319315651135850",
+        "cites_id": [
+          "17710319315651135850"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "AuthCODE: A privacy-preserving and multi-device continuous authentication architecture based on machine and deep learning",
+          "pub_year": "2021",
+          "citation": "Computers & Security 103, 102168, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:e5wmG9Sq2KIC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15852112897626761296",
+        "cites_id": [
+          "15852112897626761296"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Enabling highly dynamic mobile scenarios with Software Defined Networking",
+          "pub_year": "2017",
+          "citation": "IEEE Communications Magazine 55 (4), 108-113, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:W7OEmFMy1HYC",
+        "num_citations": 13,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10842732235269384966",
+        "cites_id": [
+          "10842732235269384966"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A dynamic continuous authentication framework in IoT-enabled environments",
+          "pub_year": "2018",
+          "citation": "2018 Fifth International Conference on Internet of Things: Systems \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:0EnyYjriUFMC",
+        "num_citations": 12,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15711853401604838959",
+        "cites_id": [
+          "15711853401604838959"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Crafting adversarial samples for anomaly detectors in industrial control systems",
+          "pub_year": "2021",
+          "citation": "Procedia Computer Science 184, 573-580, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:ZHo1McVdvXMC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5023494594977280268",
+        "cites_id": [
+          "5023494594977280268"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Twitter social bots: The 2019 Spanish general election data",
+          "pub_year": "2020",
+          "citation": "Data in brief 32, 106047, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:hMod-77fHWUC",
+        "num_citations": 11,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10980039502989010181",
+        "cites_id": [
+          "10980039502989010181"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Noise-based cyberattacks generating fake P300 waves in brain\u2013computer interfaces",
+          "pub_year": "2021",
+          "citation": "Cluster Computing, 1-16, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:EUQCXRtRnyEC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7323204974743105983",
+        "cites_id": [
+          "7323204974743105983"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Securing smart offices through an intelligent and multi-device continuous authentication system",
+          "pub_year": "2019",
+          "citation": "Smart City and Informatization: 7th International Conference, iSCI 2019 \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:IWHjjKOFINEC",
+        "num_citations": 10,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9619056119640626578",
+        "cites_id": [
+          "9619056119640626578"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Intelligent and behavioral-based detection of malware in IoT spectrum sensors",
+          "pub_year": "2022",
+          "citation": "International Journal of Information Security, 1-21, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:8AbLer7MMksC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16900884790563892156",
+        "cites_id": [
+          "16900884790563892156"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Neuronal Jamming cyberattack over invasive BCIs affecting the resolution of tasks requiring visual capabilities",
+          "pub_year": "2022",
+          "citation": "computers & security 112, 102534, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:3s1wT3WcHBgC",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4258567860466965079",
+        "cites_id": [
+          "4258567860466965079"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Resolving privacy-preserving relationships over outsourced encrypted data storages",
+          "pub_year": "2016",
+          "citation": "International Journal of Information Security 15, 195-209, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:d1gkVwhDpl0C",
+        "num_citations": 9,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17744009813998423949",
+        "cites_id": [
+          "17744009813998423949"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Policy-based network slicing management for future mobile communications",
+          "pub_year": "2018",
+          "citation": "2018 Fifth International Conference on Software Defined Systems (SDS), 153-159, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Se3iqnhoufwC",
+        "num_citations": 8,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3540950318341331811",
+        "cites_id": [
+          "3540950318341331811"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Breaching subjects\u2019 thoughts privacy: a study with visual stimuli and brain-computer interfaces",
+          "pub_year": "2021",
+          "citation": "Journal of Healthcare Engineering 2021, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:abG-DnoFyZgC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11350486809415703985",
+        "cites_id": [
+          "11350486809415703985"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Mitigation of cyber threats: Protection mechanisms in federated SDN/NFV infrastructures for 5G within FIRE+",
+          "pub_year": "2021",
+          "citation": "Concurrency and Computation: Practice and Experience 33 (7), 1-1, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:_kc_bZDykSQC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=262783247869223036",
+        "cites_id": [
+          "262783247869223036"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "FedDICE: A ransomware spread detection in a distributed integrated clinical environment using federated learning and SDN based mitigation",
+          "pub_year": "2021",
+          "citation": "Quality, Reliability, Security and Robustness in Heterogeneous Systems: 17th \u2026, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:u_35RYKgDlwC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2887692024281150521",
+        "cites_id": [
+          "2887692024281150521"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A scalable architecture for the dynamic deployment of multimodal learning analytics applications in smart classrooms",
+          "pub_year": "2020",
+          "citation": "Sensors 20 (10), 2923, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:4JMBOYKVnBMC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13260034644607326314",
+        "cites_id": [
+          "13260034644607326314"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Identification and classification of cyber threats through SSH honeypot systems",
+          "pub_year": "2020",
+          "citation": "Handbook of Research on Intrusion Detection Systems, 105-129, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:mB3voiENLucC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12028082212710409528",
+        "cites_id": [
+          "12028082212710409528"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Combined NFV and SDN applications for mitigation of cyber-attacks conducted by botnets in 5G mobile networks",
+          "pub_year": "2017",
+          "citation": "Proceedings of the ICN, 159, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:YsMSGLbcyi4C",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15158193026995969884",
+        "cites_id": [
+          "15158193026995969884"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "MASTERY: A multicontext-aware system that preserves the users' privacy",
+          "pub_year": "2016",
+          "citation": "NOMS 2016-2016 IEEE/IFIP Network Operations and Management Symposium, 523-528, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:UeHWp8X0CEIC",
+        "num_citations": 7,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5658144890233209989",
+        "cites_id": [
+          "5658144890233209989"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "CyberSpec: Behavioral Fingerprinting for Intelligent Attacks Detection on Crowdsensing Spectrum Sensors",
+          "pub_year": "2023",
+          "citation": "IEEE Transactions on Dependable and Secure Computing, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:PELIpwtuRlgC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950495455674065673,12677315942812686071,18216753574859565273",
+        "cites_id": [
+          "15950495455674065673",
+          "12677315942812686071",
+          "18216753574859565273"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SAFECAR: A Brain\u2013Computer Interface and intelligent framework to detect drivers\u2019 distractions",
+          "pub_year": "2022",
+          "citation": "Expert Systems with Applications 203, 117402, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:08ZZubdj9fEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16392378822743835613",
+        "cites_id": [
+          "16392378822743835613"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Studying the robustness of anti-adversarial federated learning models detecting cyberattacks in iot spectrum sensors",
+          "pub_year": "2022",
+          "citation": "IEEE Transactions on Dependable and Secure Computing, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:XiSMed-E-HIC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7365584796056776337",
+        "cites_id": [
+          "7365584796056776337"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Detecting and mitigating cyberattacks using software defined networks for integrated clinical environments",
+          "pub_year": "2021",
+          "citation": "Peer-to-Peer Networking and Applications, 1-16, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:vV6vV6tmYwMC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10016411272727500990",
+        "cites_id": [
+          "10016411272727500990"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "S3: An AI-enabled user continuous authentication for smartphones based on sensors, statistics and speaker information",
+          "pub_year": "2021",
+          "citation": "Sensors 21 (11), 3765, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:rO6llkc54NcC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1338683504860198158",
+        "cites_id": [
+          "1338683504860198158"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "PROTECTOR: Towards the protection of sensitive data in Europe and the US",
+          "pub_year": "2020",
+          "citation": "Computer Networks 181, 107448, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:k_IJM867U9cC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1096621709506191385",
+        "cites_id": [
+          "1096621709506191385"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "What private information are you disclosing? a privacy-preserving system supervised by yourself",
+          "pub_year": "2014",
+          "citation": "2014 IEEE Intl Conf on High Performance Computing and Communications, 2014 \u2026, 2014"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:2osOgNQ5qMEC",
+        "num_citations": 6,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16822436608493154526",
+        "cites_id": [
+          "16822436608493154526"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2211.08413, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:wbdj-CoPYUoC",
+        "num_citations": 5,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11915947882677227086,9494009843588794325",
+        "cites_id": [
+          "11915947882677227086",
+          "9494009843588794325"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Design of a Security and Trust Framework for 5G Multi-domain Scenarios.",
+          "pub_year": "2022",
+          "citation": "J. Netw. Syst. Manag. 30 (1), 7, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:eMMeJKvmdy0C",
+        "num_citations": 4,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=45888645439232890",
+        "cites_id": [
+          "45888645439232890"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Eight Reasons to Prioritize Brain-Computer Interface Cybersecurity",
+          "pub_year": "2023",
+          "citation": "Communications of the ACM 66 (4), 68-78, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:JoZmwDi-zQgC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5474014305326853125,5001776298949095271",
+        "cites_id": [
+          "5474014305326853125",
+          "5001776298949095271"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A Lightweight Moving Target Defense Framework for Multi-purpose Malware Affecting IoT Devices",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2210.07719, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:eflP2zaiRacC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=359369680786163629",
+        "cites_id": [
+          "359369680786163629"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "BEHACOM-a dataset modelling users\u2019 behaviour in computers",
+          "pub_year": "2020",
+          "citation": "Data in Brief 31, 105767, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:j3f4tGmQtD8C",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11560501472697815252",
+        "cites_id": [
+          "11560501472697815252"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Review and open challenges of public safety networks to manage emergency settings in 5G",
+          "pub_year": "2020",
+          "citation": "2020 17th international conference on electrical engineering/electronics \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:maZDTaKrznsC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8295274752224330318",
+        "cites_id": [
+          "8295274752224330318"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A management platform for citizen\u2019s data protection regulation",
+          "pub_year": "2019",
+          "citation": "Smart City and Informatization: 7th International Conference, iSCI 2019 \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:ZeXyd9-uunAC",
+        "num_citations": 3,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17696168834596757363",
+        "cites_id": [
+          "17696168834596757363"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Cutting-Edge Assets for Trust in 5G and Beyond: Requirements, State of the Art, Trends, and Challenges",
+          "pub_year": "2023",
+          "citation": "ACM Computing Surveys 55 (11), 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:bnK-pcrLprsC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11984074417689788791,18384387421769081802",
+        "cites_id": [
+          "11984074417689788791",
+          "18384387421769081802"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A methodology to identify identical single-board computers based on hardware behavior fingerprinting",
+          "pub_year": "2023",
+          "citation": "Journal of Network and Computer Applications, 103579, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:V3AGJWp-ZtQC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2155440159228523026",
+        "cites_id": [
+          "2155440159228523026"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SecBrain: A Framework to Detect Cyberattacks Revealing Sensitive Data in Brain-Computer Interfaces",
+          "pub_year": "2022",
+          "citation": "Advances in Malware and Data-Driven Network Security, 176-198, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:KxtntwgDAa4C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4149386866894959825",
+        "cites_id": [
+          "4149386866894959825"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Malware Detection in Industrial Scenarios Using Machine Learning and Deep Learning Techniques",
+          "pub_year": "2022",
+          "citation": "Advances in Malware and Data-Driven Network Security, 74-93, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:nb7KW1ujOQ8C",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2266045248959721188",
+        "cites_id": [
+          "2266045248959721188"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Trusted Execution Environment-enabled platform for 5G security and privacy enhancement",
+          "pub_year": "2022",
+          "citation": "Security and Privacy Preserving for IoT and 5G Networks: Techniques \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:1sJd4Hv_s6UC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9964739223073660931",
+        "cites_id": [
+          "9964739223073660931"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Design of a security and trust framework for 5G multi-domain scenarios",
+          "pub_year": "2022",
+          "citation": "Journal of Network and Systems Management 30 (1), 7, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:CHSYGLWDkRkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082062676549236765",
+        "cites_id": [
+          "6082062676549236765"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Towards the mitigation of distributed denial-of-service cyberbioattacks in bacteria-based biosensing systems",
+          "pub_year": "2021",
+          "citation": "Digital Signal Processing 118, 103241, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:xtRiw3GOFMkC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13272553732910500827",
+        "cites_id": [
+          "13272553732910500827"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SENIOR: An Intelligent Web-Based Ecosystem to Predict High Blood Pressure Adverse Events Using Biomarkers and Environmental Data",
+          "pub_year": "2021",
+          "citation": "Applied Sciences 11 (6), 2506, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:ldfaerwXgEUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9341373951102989048",
+        "cites_id": [
+          "9341373951102989048"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Distributed denial of service cyberbioattack affecting bacteria-based biosensing systems",
+          "pub_year": "2020",
+          "citation": "2020 17th International Conference on Electrical Engineering/Electronics \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:M3NEmzRMIkIC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15754717712187810383",
+        "cites_id": [
+          "15754717712187810383"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Machine Learning as an Enabler of Continuous and Adaptive Authentication in Multimedia Mobile Devices",
+          "pub_year": "2020",
+          "citation": "Handbook of Research on Multimedia Cyber Security, 21-47, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:R3hNpaxXUhUC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140127520132983945",
+        "cites_id": [
+          "1140127520132983945"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Cybersecurity on brain-computer interfaces: attacks and countermeasures",
+          "pub_year": "2019",
+          "citation": "Actas de las V Jornadas Nacionales de Ciberseguridad: junio 5-7, 2019 \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:-f6ydRqryjwC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9545659167755847821",
+        "cites_id": [
+          "9545659167755847821"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "D7. 3 Report and Functional Testing of the SELFNET Framework",
+          "pub_year": "2018",
+          "citation": "SELFNET Consortium, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:L8Ckcad2t8MC",
+        "num_citations": 2,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2851806578896623188",
+        "cites_id": [
+          "2851806578896623188"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers",
+          "pub_year": "2023",
+          "citation": "Internet of Things 22, 100764, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:K3LRdlH-MEoC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457649522445344978",
+        "cites_id": [
+          "9457649522445344978"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SUSAN: A Deep Learning based anomaly detection framework for sustainable industry",
+          "pub_year": "2023",
+          "citation": "Sustainable Computing: Informatics and Systems, 100842, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:AXPGKjj_ei8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12925804933977492004",
+        "cites_id": [
+          "12925804933977492004"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A Framework Quantifying Trustworthiness of Supervised Machine and Deep Learning Models",
+          "pub_year": "2023",
+          "citation": "SafeAI2023: The AAAI\u2019s Workshop on Artificial Intelligence Safety, 2938-2948, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:eq2jaN3J8jMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12463026182313853873",
+        "cites_id": [
+          "12463026182313853873"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "RL and Fingerprinting to Select Moving Target Defense Mechanisms for Zero-day Attacks in IoT",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2212.14647, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:HE397vMXCloC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3426042669434250294",
+        "cites_id": [
+          "3426042669434250294"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "When Brain-Computer Interfaces Meet the Metaverse: Landscape, Demonstrator, Trends, Challenges, and Concerns",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2212.03169, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:olpn-zPbct0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15870755823548610069",
+        "cites_id": [
+          "15870755823548610069"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Analyzing the Robustness of Decentralized Horizontal and Vertical Federated Learning Architectures in a Non-IID Scenario",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2210.11061, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:BrmTIyaxlBUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14205542482651112408",
+        "cites_id": [
+          "14205542482651112408"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Intelligent Fingerprinting to Detect Data Leakage Attacks on Spectrum Sensors",
+          "pub_year": "2022",
+          "citation": "ICC 2022-IEEE International Conference on Communications, 4080-4085, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:5Ul4iDaHHb8C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2804725188932551019",
+        "cites_id": [
+          "2804725188932551019"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Study of P300 Detection Performance by Different P300 Speller Approaches Using Electroencephalography",
+          "pub_year": "2022",
+          "citation": "2022 IEEE 16th International Symposium on Medical Information and \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:geHnlv5EZngC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11287638941960793700",
+        "cites_id": [
+          "11287638941960793700"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A Supervised ML Biometric Continuous Authentication System for Industry 4.0",
+          "pub_year": "2022",
+          "citation": "IEEE Transactions on Industrial Informatics 18 (12), 9132-9140, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:tOudhMTPpwUC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13524500702026962287",
+        "cites_id": [
+          "13524500702026962287"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Creation of a Dataset Modeling the Behavior of Malware Affecting the Confidentiality of Data Managed by IoT Devices",
+          "pub_year": "2022",
+          "citation": "Robotics and AI for Cybersecurity and Critical Infrastructure in Smart \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:738O_yMBCRsC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11309901431286102160",
+        "cites_id": [
+          "11309901431286102160"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "16 A Review of Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling",
+          "pub_year": "2021",
+          "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:pyW8ca7W8N0C",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6803163158259604391",
+        "cites_id": [
+          "6803163158259604391"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Can evil IoT twins be identified? Now yes, a hardware behavioral fingerprinting methodology",
+          "pub_year": "2021",
+          "citation": "arXiv preprint arXiv:2106.08209, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:cFHS6HbyZ2cC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15256001484984836493",
+        "cites_id": [
+          "15256001484984836493"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Toward the Detection and Mitigation of Ransomware Attacks in Medical Cyber-Physical Systems (MCPSs)",
+          "pub_year": "2020",
+          "citation": "Recent Advances in Security, Privacy, and Trust for Internet of Things (IoT \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:RGFaLdJalmkC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9437316931854441314",
+        "cites_id": [
+          "9437316931854441314"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Keeping an eye on botnets in 5G networks: Detection and mitigation by NFV and SDN apps",
+          "pub_year": "2017",
+          "citation": "2017 European Conference on Networks and Communications, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:4DMP91E08xMC",
+        "num_citations": 1,
+        "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12718265474943197110",
+        "cites_id": [
+          "12718265474943197110"
+        ]
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Defining and analyzing the impact of cyberattacks on novel generations of BCIs. Eight Reasons to Prioritize Brain-Computer Interface Cybersecurity",
+          "pub_year": "2023",
+          "citation": "COMMUNICATIONS OF THE ACM 66 (4), 68-78, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:SdhP9T11ey4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Analyzing the impact of Driving tasks when detecting emotions through brain\u2013computer interfaces",
+          "pub_year": "2023",
+          "citation": "Neural Computing and Applications, 1-19, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:VOx2b1Wkg3QC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "FederatedTrust: A Solution for Trustworthy Federated Learning",
+          "pub_year": "2023",
+          "citation": "arXiv preprint arXiv:2302.09844, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:tkaPQYYpVKoC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Robust Federated Learning for execution time-based device model identification under label-flipping attack",
+          "pub_year": "2023",
+          "citation": "Cluster Computing, 1-12, 2023"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:SP6oXDckpogC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Adversarial attacks and defenses on ML-and hardware-based IoT device fingerprinting and identification",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2212.14677, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:WA5NYHcadZ8C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "RL and Fingerprinting to Select Moving Target Defense Mechanisms for Zero-day Attacks in IoT",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2212.14647, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Y5dfb0dijaUC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Adversarial attacks and defenses on ML-and hardware-based IoT device fingerprinting and identification",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2212.14677, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Mojj43d5GZwC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "When Brain-Computer Interfaces Meet the Metaverse: Landscape, Demonstrator, Trends, Challenges, and Concerns",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2212.03169, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:t6usbXjVLHcC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A Methodology for Evaluating the Robustness of Anomaly Detectors to Adversarial Attacks in Industrial Scenarios",
+          "pub_year": "2022",
+          "citation": "IEEE Access 10, 124582-124594, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:XiVPGOgt02cC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "RITUAL: a Platform Quantifying the Trustworthiness of Supervised Machine Learning",
+          "pub_year": "2022",
+          "citation": "2022 18th International Conference on Network and Service Management (CNSM \u2026, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:5ugPr518TE4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "SpecForce: A Framework to Secure IoT Spectrum Sensors in the Internet of Battlefield Things",
+          "pub_year": "2022",
+          "citation": "IEEE Communications Magazine, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:1qzjygNMrQYC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Trust-as-a-Service: A reputation-enabled trust framework for 5G networks",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2210.11501, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:q3oQSFYPqjQC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Privacy-preserving and Syscall-based Intrusion Detection System for IoT Spectrum Sensors Affected by Data Falsification Attacks",
+          "pub_year": "2022",
+          "citation": "IEEE Internet of Things Journal, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:D_sINldO8mEC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Trust-as-a-Service: A reputation-enabled trust framework for 5G networks",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2210.11501, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:kRWSkSYxWN8C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Analyzing the Robustness of Decentralized Horizontal and Vertical Federated Learning Architectures in a Non-IID Scenario",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2210.11061, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:mvPsJ3kp5DgC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Studying Drowsiness Detection Performance while Driving through Scalable Machine Learning Models using Electroencephalography",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2209.04048, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:eJXPG6dFmWUC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Analyzing the impact of Driving tasks when detecting emotions through Brain-Computer Interfaces",
+          "pub_year": "2022",
+          "citation": "arXiv preprint arXiv:2209.00993, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:fQNAKQ3IYiAC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Policy-based and Behavioral Framework to Detect Ransomware Affecting Resource-constrained Sensors",
+          "pub_year": "2022",
+          "citation": "NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium, 1-7, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:4fKUyHm3Qg0C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2204.08516, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:l7t_Zn2s7bgC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors",
+          "pub_year": "2022",
+          "citation": "arXiv e-prints, arXiv: 2202.00137, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Tiz5es2fbqcC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Cybersecurity Risks Associated With Brain-Computer Interface Classifications",
+          "pub_year": "2022",
+          "citation": "Advances in Malware and Data-Driven Network Security, 236-259, 2022"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:dshw04ExmUIC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Robust Federated Learning for execution time-based device model identification under label-flipping attack",
+          "pub_year": "2021",
+          "citation": "arXiv preprint arXiv:2111.14434, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:uWQEDVKXjbEC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Secure Crowdsensing Platforms Through Device Behavior Fingerprinting",
+          "pub_year": "2021",
+          "citation": "UCLM, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:WbkHhVStYXYC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Can Evil IoT Twins Be Identified? Now Yes, a Hardware Behavioral Fingerprinting Methodology",
+          "pub_year": "2021",
+          "citation": "Now Yes, a Hardware Behavioral Fingerprinting Methodology, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:yD5IFk8b50cC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Eight Reasons Why Cybersecurity on Novel Generations of Brain-Computer Interfaces Must Be Prioritized",
+          "pub_year": "2021",
+          "citation": "arXiv. org, 1-2, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:4OULZ7Gr8RgC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Overview of the security and trust mechanisms in the 5GZORRO project",
+          "pub_year": "2021",
+          "citation": "EUCNC 2021, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:bFI3QPDXJZMC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "15 Secure Crowdsensing Platforms Through Device Behavior Fingerprinting",
+          "pub_year": "2021",
+          "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:f2IySw72cVMC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "20 A Review of Spotting political social bots inTwitter: A use case of the 2019 Spanish general election",
+          "pub_year": "2021",
+          "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:D03iK_w7-QYC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "31 Review of MADICS: A Methodology for Anomaly Detection in Industrial Control Systems",
+          "pub_year": "2021",
+          "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:a0OBvERweLwC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Anomaly Detection on Encrypted and High-Performance Data Networks by Means of Machine Learning Techniques",
+          "pub_year": "2020",
+          "citation": "Recent Advances in Security, Privacy, and Trust for Internet of Things (IoT \u2026, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:HoB7MX3m0LUC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Comunicaciones Orales.-Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes.",
+          "pub_year": "2020",
+          "citation": "II Jornadas Doctorales de la Universidad de Murcia, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:RHpTSmoSYBkC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "AuthCODE: A Privacy-preserving and Multi-device Continuous Authentication Architecture based on Machine and Deep Learning",
+          "pub_year": "2020",
+          "citation": "arXiv e-prints, arXiv: 2004.07877, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:_Qo2XoVZTnwC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Intelligent User Profiling Based on Sensors and Location Data to Detect Intrusions on Mobile Devices",
+          "pub_year": "2020",
+          "citation": "Handbook of Research on Intrusion Detection Systems, 1-25, 2020"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:HDshCWvjkbEC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A review of improving the security and QoE in mobile devices through an inteligent and adaptive continuous authentication system",
+          "pub_year": "2019",
+          "citation": "Actas de las V Jornadas Nacionales de Ciberseguridad: junio 5-7, 2019 \u2026, 2019"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:hFOr9nPyWt4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Context-Aware Systems: Protecting Sensitive Information and Controlling Network Behavior",
+          "pub_year": "2018",
+          "citation": "Computer and Cyber Security, 1-21, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:8k81kl-MbHgC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "2018 5TH INTERNATIONAL CONFERENCE ON INTERNET OF THINGS: SYSTEMS, MANAGEMENT AND SECURITY, IOTSMS 2018",
+          "pub_year": "2018",
+          "citation": "Fog 131, 138, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:bEWYMUwI8FkC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "D7. 4 Report and Functional Demonstration of the Use Cases",
+          "pub_year": "2018",
+          "citation": "SELFNET Consortium, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:7PzlFSSx8tAC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A review of Sustainable Securing of Medical Cyber-Physical Systems for Future Healthcare",
+          "pub_year": "2018",
+          "citation": "Actas de las Cuartas Jornadas Nacionales de Investigaci\u00f3n en Ciberseguridad \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:5nxA0vEk-isC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Second best student paper award: Towards Protecting Users\u2019 Sensitive Information in Context-Aware Solutions",
+          "pub_year": "2018",
+          "citation": "Actas de las Cuartas Jornadas Nacionales de Investigaci\u00f3n en Ciberseguridad \u2026, 2018"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:UebtZRa9Y70C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A proposal for user's privacy management in context-aware systems= Propuesta para la gesti\u00f3n de la privacidad de los usuarios en sistemas sensibles al contexto",
+          "pub_year": "2017",
+          "citation": "Proyecto de investigaci\u00f3n:, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:qxL8FJ1GzNcC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Network Slicing en Redes M\u00f3viles 5G",
+          "pub_year": "2017",
+          "citation": "III Jornadas Doctorales Escuela Internacional de Doctorado de la Universidad \u2026, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:9vf0nzSNQJEC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A proposal for user's privacy management in context-aware systems= Propuesta para la gesti\u00f3n de la privacidad de los usuarios en sistemas sensibles al contexto",
+          "pub_year": "2017",
+          "citation": "Universidad de Murcia, 2017"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:Wp0gIr-vW9MC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes.",
+          "pub_year": "2016",
+          "citation": "II Jornadas Doctorales de la Universidad de Murcia, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:pqnbT2bcN3wC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Preserving the users\u2019 information privacy in location-based and context-aware solutions",
+          "pub_year": "2016",
+          "citation": "Actas de la jornadas nacionales de investigaci\u00f3n en ciberseguridad: Granada \u2026, 2016"
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:IjCSPb-OGe4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "A Review of Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling",
+          "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:dfsIfKJdRG4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "IEEE CSE 2020 Organizing and Program Committees",
+          "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:70eg2SAEIzsC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Welcome Messages from IEEE CSE 2020 Program Chairs",
+          "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:35N4QoGY0k4C",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "Lorenzo Fernandez Maimo",
+          "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:lSLTfruPkqcC",
+        "num_citations": 0
+      },
+      {
+        "container_type": "Publication",
+        "source": "AUTHOR_PUBLICATION_ENTRY",
+        "bib": {
+          "title": "II Jornadas Doctorales de la Universidad de Murcia IA-CO-02 Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes",
+          "citation": ""
+        },
+        "filled": false,
+        "author_pub_id": "IFyGj20AAAAJ:YFjsv_pBGBYC",
+        "num_citations": 0
+      }
+    ],
+    "public_access": {
+      "available": 50,
+      "not_available": 2
+    }
+  },
+  "publications": [
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SeCoMan: A semantic-aware policy framework for developing privacy-preserving and context-aware smart applications",
+        "pub_year": 2014,
+        "citation": "IEEE Systems Journal 10 (3), 1111-1124, 2014",
+        "author": "Alberto Huertas Celdr\u00e1n and F\u00e9lix J Garc\u00eda Clemente and Manuel Gil P\u00e9rez and Gregorio Mart\u00ednez P\u00e9rez",
+        "journal": "IEEE Systems Journal",
+        "volume": "10",
+        "number": "3",
+        "pages": "1111-1124",
+        "publisher": "IEEE",
+        "abstract": "This paper is intended to provide a solution for developing context-aware smart applications preserving the users' privacy in the Internet of Things (IoT). In this sense, we present a framework called Semantic Web-based Context Management (SeCoMan) aimed at offering a set of predefined queries to provide applications with information about indoor location of users and objects, as well as context-aware services. SeCoMan uses a semantic-oriented IoT vision where semantic technologies play a key role. In fact, SeCoMan uses Semantic Web for modeling description of things, reasoning over data to infer new knowledge, and defining context-aware policies. SeCoMan also defines a layered architecture, including functions related to the management of the users' privacy in a manner that accommodate IoT requirements, in addition to not affecting system performance nor introducing excessive overheads. A \u2026"
+      },
+      "filled": true,
+      "author_pub_id": "IFyGj20AAAAJ:u5HHmVD_uO8C",
+      "num_citations": 102,
+      "citedby_url": "/scholar?hl=en&cites=5536760395315530280",
+      "cites_id": [
+        "5536760395315530280"
+      ],
+      "pub_url": "https://ieeexplore.ieee.org/abstract/document/6718051/",
+      "url_related_articles": "/scholar?oi=bibs&hl=en&q=related:KMo7mT6G1kwJ:scholar.google.com/",
+      "cites_per_year": {
+        "2014": 3,
+        "2015": 12,
+        "2016": 12,
+        "2017": 5,
+        "2018": 17,
+        "2019": 12,
+        "2020": 21,
+        "2021": 10,
+        "2022": 8,
+        "2023": 1
+      }
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Federated learning for malware detection in iot devices",
+        "pub_year": "2022",
+        "citation": "Computer Networks 204, 108693, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:M05iB0D1s5AC",
+      "num_citations": 97,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436228223962277262",
+      "cites_id": [
+        "436228223962277262"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intelligent and dynamic ransomware spread detection and mitigation in integrated clinical environments",
+        "pub_year": "2019",
+        "citation": "Sensors 19 (5), 1114, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:4TOpqqG69KYC",
+      "num_citations": 84,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12466078248940231244",
+      "cites_id": [
+        "12466078248940231244"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Security in brain-computer interfaces: state-of-the-art, opportunities, and future challenges",
+        "pub_year": "2021",
+        "citation": "ACM Computing Surveys (CSUR) 54 (1), 1-35, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:9ZlFYXVOiuMC",
+      "num_citations": 66,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5370912080009076587,6321028198526739386",
+      "cites_id": [
+        "5370912080009076587",
+        "6321028198526739386"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A survey on device behavior fingerprinting: Data sources, techniques, application scenarios, and datasets",
+        "pub_year": "2021",
+        "citation": "IEEE Communications Surveys & Tutorials 23 (2), 1048-1077, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:blknAaTinKkC",
+      "num_citations": 63,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10525986513512624307",
+      "cites_id": [
+        "10525986513512624307"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic management of a deep learning-based anomaly detection system for 5G networks",
+        "pub_year": "2019",
+        "citation": "Journal of Ambient Intelligence and Humanized Computing 10, 3083-3097, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:LkGwnXOMwfcC",
+      "num_citations": 58,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14199029335666907338",
+      "cites_id": [
+        "14199029335666907338"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "On the generation of anomaly detection datasets in industrial control systems",
+        "pub_year": "2019",
+        "citation": "IEEE Access 7, 177460-177473, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:qUcmZB5y_30C",
+      "num_citations": 53,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182162143817109752",
+      "cites_id": [
+        "7182162143817109752"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Spotting political social bots in Twitter: A use case of the 2019 Spanish general election",
+        "pub_year": "2020",
+        "citation": "IEEE Transactions on Network and Service Management 17 (4), 2156-2170, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:TQgYirikUcIC",
+      "num_citations": 47,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12371411635286995898",
+      "cites_id": [
+        "12371411635286995898"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of a recommender system based on users\u2019 behavior and collaborative location and tracking",
+        "pub_year": "2016",
+        "citation": "Journal of Computational Science 12, 83-94, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:9yKSN-GCB0IC",
+      "num_citations": 40,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3325195859839777745",
+      "cites_id": [
+        "3325195859839777745"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic reconfiguration in 5G mobile networks to proactively detect and mitigate botnets",
+        "pub_year": "2017",
+        "citation": "IEEE Internet Computing 21 (5), 28-36, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:ufrVoPGSRksC",
+      "num_citations": 35,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=467739374714541098",
+      "cites_id": [
+        "467739374714541098"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Sustainable securing of medical cyber-physical systems for the healthcare of the future",
+        "pub_year": "2018",
+        "citation": "Sustainable Computing: Informatics and Systems 19, 138-146, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 34,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17417802977937267201",
+      "cites_id": [
+        "17417802977937267201"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Madics: A methodology for anomaly detection in industrial control systems",
+        "pub_year": "2020",
+        "citation": "Symmetry 12 (10), 1583, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:BqipwSGYUEgC",
+      "num_citations": 32,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16537687420041725544",
+      "cites_id": [
+        "16537687420041725544"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Self-organized laboratories for smart campus",
+        "pub_year": "2019",
+        "citation": "IEEE Transactions on Learning Technologies 13 (2), 404-416, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:QIV2ME_5wuYC",
+      "num_citations": 27,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8480797494792287328",
+      "cites_id": [
+        "8480797494792287328"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards the autonomous provision of self-protection capabilities in 5G networks",
+        "pub_year": "2019",
+        "citation": "Journal of Ambient Intelligence and Humanized Computing 10, 4707-4720, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:roLk4NBRz8UC",
+      "num_citations": 26,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12286754131781657907",
+      "cites_id": [
+        "12286754131781657907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cyberattacks on miniature brain implants to disrupt spontaneous neural signaling",
+        "pub_year": "2020",
+        "citation": "IEEE Access 8, 152204-152222, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:TFP_iSt0sucC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17356255784387214764",
+      "cites_id": [
+        "17356255784387214764"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PRECISE: Privacy-aware recommender based on context information for cloud service environments",
+        "pub_year": "2014",
+        "citation": "IEEE Communications Magazine 52 (8), 90-96, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:u-x6o8ySG0sC",
+      "num_citations": 24,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3957885592910829342",
+      "cites_id": [
+        "3957885592910829342"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Improving the security and QoE in mobile devices through an intelligent and adaptive continuous authentication system",
+        "pub_year": "2018",
+        "citation": "Sensors 18 (11), 3769, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:YOwf2qJgpHMC",
+      "num_citations": 22,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1251434598932708907",
+      "cites_id": [
+        "1251434598932708907"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PALOT: Profiling and authenticating users leveraging internet of things",
+        "pub_year": "2019",
+        "citation": "Sensors 19 (12), 2832, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:mVmsd5A6BfQC",
+      "num_citations": 20,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15716901413646889499",
+      "cites_id": [
+        "15716901413646889499"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ICE++: improving security, QoS, and high availability of medical cyber-physical systems through mobile edge computing",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 20th International Conference on e-Health Networking, Applications \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:hqOjcs7Dif8C",
+      "num_citations": 19,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16359025497731422632",
+      "cites_id": [
+        "16359025497731422632"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatic monitoring management for 5G mobile networks",
+        "pub_year": "2017",
+        "citation": "Procedia Computer Science 110, 328-335, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:WF5omc3nYNoC",
+      "num_citations": 17,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7585771745690291283",
+      "cites_id": [
+        "7585771745690291283"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SafeMan: A unified framework to manage cybersecurity and safety in manufacturing industry",
+        "pub_year": "2021",
+        "citation": "Software: Practice and Experience 51 (3), 607-627, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:JV2RwH3_ST0C",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7903711185185041609",
+      "cites_id": [
+        "7903711185185041609"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Dynamic network slicing management of multimedia scenarios for future remote healthcare",
+        "pub_year": "2019",
+        "citation": "Multimedia Tools and Applications 78, 24707-24737, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:MXK_kJrjxJIC",
+      "num_citations": 16,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1955008451485565470",
+      "cites_id": [
+        "1955008451485565470"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preserving patients\u2019 privacy in health scenarios through a multicontext-aware system",
+        "pub_year": "2017",
+        "citation": "Annals of Telecommunications 72, 577-587, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:eQOLeE2rZwMC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7993244881476178521",
+      "cites_id": [
+        "7993244881476178521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toward pre-standardization of reputation-based trust models beyond 5G",
+        "pub_year": "2022",
+        "citation": "Computer Standards & Interfaces 81, 103596, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:P5F9QuxV20EC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15232082316725628169",
+      "cites_id": [
+        "15232082316725628169"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy-based management for green mobile networks through software-defined networking",
+        "pub_year": "2019",
+        "citation": "Mobile Networks and Applications 24, 657-666, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17710319315651135850",
+      "cites_id": [
+        "17710319315651135850"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AuthCODE: A privacy-preserving and multi-device continuous authentication architecture based on machine and deep learning",
+        "pub_year": "2021",
+        "citation": "Computers & Security 103, 102168, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:e5wmG9Sq2KIC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15852112897626761296",
+      "cites_id": [
+        "15852112897626761296"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Enabling highly dynamic mobile scenarios with Software Defined Networking",
+        "pub_year": "2017",
+        "citation": "IEEE Communications Magazine 55 (4), 108-113, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:W7OEmFMy1HYC",
+      "num_citations": 13,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10842732235269384966",
+      "cites_id": [
+        "10842732235269384966"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A dynamic continuous authentication framework in IoT-enabled environments",
+        "pub_year": "2018",
+        "citation": "2018 Fifth International Conference on Internet of Things: Systems \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:0EnyYjriUFMC",
+      "num_citations": 12,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15711853401604838959",
+      "cites_id": [
+        "15711853401604838959"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Crafting adversarial samples for anomaly detectors in industrial control systems",
+        "pub_year": "2021",
+        "citation": "Procedia Computer Science 184, 573-580, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:ZHo1McVdvXMC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5023494594977280268",
+      "cites_id": [
+        "5023494594977280268"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Twitter social bots: The 2019 Spanish general election data",
+        "pub_year": "2020",
+        "citation": "Data in brief 32, 106047, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:hMod-77fHWUC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10980039502989010181",
+      "cites_id": [
+        "10980039502989010181"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Noise-based cyberattacks generating fake P300 waves in brain\u2013computer interfaces",
+        "pub_year": "2021",
+        "citation": "Cluster Computing, 1-16, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:EUQCXRtRnyEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7323204974743105983",
+      "cites_id": [
+        "7323204974743105983"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Securing smart offices through an intelligent and multi-device continuous authentication system",
+        "pub_year": "2019",
+        "citation": "Smart City and Informatization: 7th International Conference, iSCI 2019 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:IWHjjKOFINEC",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9619056119640626578",
+      "cites_id": [
+        "9619056119640626578"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intelligent and behavioral-based detection of malware in IoT spectrum sensors",
+        "pub_year": "2022",
+        "citation": "International Journal of Information Security, 1-21, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:8AbLer7MMksC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16900884790563892156",
+      "cites_id": [
+        "16900884790563892156"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Neuronal Jamming cyberattack over invasive BCIs affecting the resolution of tasks requiring visual capabilities",
+        "pub_year": "2022",
+        "citation": "computers & security 112, 102534, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:3s1wT3WcHBgC",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4258567860466965079",
+      "cites_id": [
+        "4258567860466965079"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Resolving privacy-preserving relationships over outsourced encrypted data storages",
+        "pub_year": "2016",
+        "citation": "International Journal of Information Security 15, 195-209, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:d1gkVwhDpl0C",
+      "num_citations": 9,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17744009813998423949",
+      "cites_id": [
+        "17744009813998423949"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy-based network slicing management for future mobile communications",
+        "pub_year": "2018",
+        "citation": "2018 Fifth International Conference on Software Defined Systems (SDS), 153-159, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Se3iqnhoufwC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3540950318341331811",
+      "cites_id": [
+        "3540950318341331811"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Breaching subjects\u2019 thoughts privacy: a study with visual stimuli and brain-computer interfaces",
+        "pub_year": "2021",
+        "citation": "Journal of Healthcare Engineering 2021, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:abG-DnoFyZgC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11350486809415703985",
+      "cites_id": [
+        "11350486809415703985"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitigation of cyber threats: Protection mechanisms in federated SDN/NFV infrastructures for 5G within FIRE+",
+        "pub_year": "2021",
+        "citation": "Concurrency and Computation: Practice and Experience 33 (7), 1-1, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:_kc_bZDykSQC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=262783247869223036",
+      "cites_id": [
+        "262783247869223036"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FedDICE: A ransomware spread detection in a distributed integrated clinical environment using federated learning and SDN based mitigation",
+        "pub_year": "2021",
+        "citation": "Quality, Reliability, Security and Robustness in Heterogeneous Systems: 17th \u2026, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:u_35RYKgDlwC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2887692024281150521",
+      "cites_id": [
+        "2887692024281150521"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A scalable architecture for the dynamic deployment of multimodal learning analytics applications in smart classrooms",
+        "pub_year": "2020",
+        "citation": "Sensors 20 (10), 2923, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:4JMBOYKVnBMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13260034644607326314",
+      "cites_id": [
+        "13260034644607326314"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Identification and classification of cyber threats through SSH honeypot systems",
+        "pub_year": "2020",
+        "citation": "Handbook of Research on Intrusion Detection Systems, 105-129, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:mB3voiENLucC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12028082212710409528",
+      "cites_id": [
+        "12028082212710409528"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Combined NFV and SDN applications for mitigation of cyber-attacks conducted by botnets in 5G mobile networks",
+        "pub_year": "2017",
+        "citation": "Proceedings of the ICN, 159, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:YsMSGLbcyi4C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15158193026995969884",
+      "cites_id": [
+        "15158193026995969884"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "MASTERY: A multicontext-aware system that preserves the users' privacy",
+        "pub_year": "2016",
+        "citation": "NOMS 2016-2016 IEEE/IFIP Network Operations and Management Symposium, 523-528, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:UeHWp8X0CEIC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5658144890233209989",
+      "cites_id": [
+        "5658144890233209989"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "CyberSpec: Behavioral Fingerprinting for Intelligent Attacks Detection on Crowdsensing Spectrum Sensors",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Dependable and Secure Computing, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:PELIpwtuRlgC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15950495455674065673,12677315942812686071,18216753574859565273",
+      "cites_id": [
+        "15950495455674065673",
+        "12677315942812686071",
+        "18216753574859565273"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SAFECAR: A Brain\u2013Computer Interface and intelligent framework to detect drivers\u2019 distractions",
+        "pub_year": "2022",
+        "citation": "Expert Systems with Applications 203, 117402, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:08ZZubdj9fEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16392378822743835613",
+      "cites_id": [
+        "16392378822743835613"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studying the robustness of anti-adversarial federated learning models detecting cyberattacks in iot spectrum sensors",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Dependable and Secure Computing, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:XiSMed-E-HIC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7365584796056776337",
+      "cites_id": [
+        "7365584796056776337"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Detecting and mitigating cyberattacks using software defined networks for integrated clinical environments",
+        "pub_year": "2021",
+        "citation": "Peer-to-Peer Networking and Applications, 1-16, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:vV6vV6tmYwMC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10016411272727500990",
+      "cites_id": [
+        "10016411272727500990"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "S3: An AI-enabled user continuous authentication for smartphones based on sensors, statistics and speaker information",
+        "pub_year": "2021",
+        "citation": "Sensors 21 (11), 3765, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:rO6llkc54NcC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1338683504860198158",
+      "cites_id": [
+        "1338683504860198158"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "PROTECTOR: Towards the protection of sensitive data in Europe and the US",
+        "pub_year": "2020",
+        "citation": "Computer Networks 181, 107448, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:k_IJM867U9cC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1096621709506191385",
+      "cites_id": [
+        "1096621709506191385"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "What private information are you disclosing? a privacy-preserving system supervised by yourself",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Intl Conf on High Performance Computing and Communications, 2014 \u2026, 2014"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:2osOgNQ5qMEC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16822436608493154526",
+      "cites_id": [
+        "16822436608493154526"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Decentralized Federated Learning: Fundamentals, State-of-the-art, Frameworks, Trends, and Challenges",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2211.08413, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:wbdj-CoPYUoC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11915947882677227086,9494009843588794325",
+      "cites_id": [
+        "11915947882677227086",
+        "9494009843588794325"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of a Security and Trust Framework for 5G Multi-domain Scenarios.",
+        "pub_year": "2022",
+        "citation": "J. Netw. Syst. Manag. 30 (1), 7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:eMMeJKvmdy0C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=45888645439232890",
+      "cites_id": [
+        "45888645439232890"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eight Reasons to Prioritize Brain-Computer Interface Cybersecurity",
+        "pub_year": "2023",
+        "citation": "Communications of the ACM 66 (4), 68-78, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:JoZmwDi-zQgC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5474014305326853125,5001776298949095271",
+      "cites_id": [
+        "5474014305326853125",
+        "5001776298949095271"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Lightweight Moving Target Defense Framework for Multi-purpose Malware Affecting IoT Devices",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2210.07719, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:eflP2zaiRacC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=359369680786163629",
+      "cites_id": [
+        "359369680786163629"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "BEHACOM-a dataset modelling users\u2019 behaviour in computers",
+        "pub_year": "2020",
+        "citation": "Data in Brief 31, 105767, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:j3f4tGmQtD8C",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11560501472697815252",
+      "cites_id": [
+        "11560501472697815252"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Review and open challenges of public safety networks to manage emergency settings in 5G",
+        "pub_year": "2020",
+        "citation": "2020 17th international conference on electrical engineering/electronics \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:maZDTaKrznsC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8295274752224330318",
+      "cites_id": [
+        "8295274752224330318"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A management platform for citizen\u2019s data protection regulation",
+        "pub_year": "2019",
+        "citation": "Smart City and Informatization: 7th International Conference, iSCI 2019 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:ZeXyd9-uunAC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17696168834596757363",
+      "cites_id": [
+        "17696168834596757363"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cutting-Edge Assets for Trust in 5G and Beyond: Requirements, State of the Art, Trends, and Challenges",
+        "pub_year": "2023",
+        "citation": "ACM Computing Surveys 55 (11), 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:bnK-pcrLprsC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11984074417689788791,18384387421769081802",
+      "cites_id": [
+        "11984074417689788791",
+        "18384387421769081802"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A methodology to identify identical single-board computers based on hardware behavior fingerprinting",
+        "pub_year": "2023",
+        "citation": "Journal of Network and Computer Applications, 103579, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:V3AGJWp-ZtQC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2155440159228523026",
+      "cites_id": [
+        "2155440159228523026"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SecBrain: A Framework to Detect Cyberattacks Revealing Sensitive Data in Brain-Computer Interfaces",
+        "pub_year": "2022",
+        "citation": "Advances in Malware and Data-Driven Network Security, 176-198, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:KxtntwgDAa4C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4149386866894959825",
+      "cites_id": [
+        "4149386866894959825"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Malware Detection in Industrial Scenarios Using Machine Learning and Deep Learning Techniques",
+        "pub_year": "2022",
+        "citation": "Advances in Malware and Data-Driven Network Security, 74-93, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:nb7KW1ujOQ8C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2266045248959721188",
+      "cites_id": [
+        "2266045248959721188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trusted Execution Environment-enabled platform for 5G security and privacy enhancement",
+        "pub_year": "2022",
+        "citation": "Security and Privacy Preserving for IoT and 5G Networks: Techniques \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:1sJd4Hv_s6UC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9964739223073660931",
+      "cites_id": [
+        "9964739223073660931"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Design of a security and trust framework for 5G multi-domain scenarios",
+        "pub_year": "2022",
+        "citation": "Journal of Network and Systems Management 30 (1), 7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:CHSYGLWDkRkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082062676549236765",
+      "cites_id": [
+        "6082062676549236765"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Towards the mitigation of distributed denial-of-service cyberbioattacks in bacteria-based biosensing systems",
+        "pub_year": "2021",
+        "citation": "Digital Signal Processing 118, 103241, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:xtRiw3GOFMkC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13272553732910500827",
+      "cites_id": [
+        "13272553732910500827"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SENIOR: An Intelligent Web-Based Ecosystem to Predict High Blood Pressure Adverse Events Using Biomarkers and Environmental Data",
+        "pub_year": "2021",
+        "citation": "Applied Sciences 11 (6), 2506, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:ldfaerwXgEUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9341373951102989048",
+      "cites_id": [
+        "9341373951102989048"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Distributed denial of service cyberbioattack affecting bacteria-based biosensing systems",
+        "pub_year": "2020",
+        "citation": "2020 17th International Conference on Electrical Engineering/Electronics \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:M3NEmzRMIkIC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15754717712187810383",
+      "cites_id": [
+        "15754717712187810383"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Machine Learning as an Enabler of Continuous and Adaptive Authentication in Multimedia Mobile Devices",
+        "pub_year": "2020",
+        "citation": "Handbook of Research on Multimedia Cyber Security, 21-47, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:R3hNpaxXUhUC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140127520132983945",
+      "cites_id": [
+        "1140127520132983945"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cybersecurity on brain-computer interfaces: attacks and countermeasures",
+        "pub_year": "2019",
+        "citation": "Actas de las V Jornadas Nacionales de Ciberseguridad: junio 5-7, 2019 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:-f6ydRqryjwC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9545659167755847821",
+      "cites_id": [
+        "9545659167755847821"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "D7. 3 Report and Functional Testing of the SELFNET Framework",
+        "pub_year": "2018",
+        "citation": "SELFNET Consortium, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:L8Ckcad2t8MC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2851806578896623188",
+      "cites_id": [
+        "2851806578896623188"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers",
+        "pub_year": "2023",
+        "citation": "Internet of Things 22, 100764, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:K3LRdlH-MEoC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457649522445344978",
+      "cites_id": [
+        "9457649522445344978"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SUSAN: A Deep Learning based anomaly detection framework for sustainable industry",
+        "pub_year": "2023",
+        "citation": "Sustainable Computing: Informatics and Systems, 100842, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:AXPGKjj_ei8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12925804933977492004",
+      "cites_id": [
+        "12925804933977492004"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Framework Quantifying Trustworthiness of Supervised Machine and Deep Learning Models",
+        "pub_year": "2023",
+        "citation": "SafeAI2023: The AAAI\u2019s Workshop on Artificial Intelligence Safety, 2938-2948, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:eq2jaN3J8jMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12463026182313853873",
+      "cites_id": [
+        "12463026182313853873"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RL and Fingerprinting to Select Moving Target Defense Mechanisms for Zero-day Attacks in IoT",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2212.14647, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:HE397vMXCloC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3426042669434250294",
+      "cites_id": [
+        "3426042669434250294"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "When Brain-Computer Interfaces Meet the Metaverse: Landscape, Demonstrator, Trends, Challenges, and Concerns",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2212.03169, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:olpn-zPbct0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15870755823548610069",
+      "cites_id": [
+        "15870755823548610069"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyzing the Robustness of Decentralized Horizontal and Vertical Federated Learning Architectures in a Non-IID Scenario",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2210.11061, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:BrmTIyaxlBUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14205542482651112408",
+      "cites_id": [
+        "14205542482651112408"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intelligent Fingerprinting to Detect Data Leakage Attacks on Spectrum Sensors",
+        "pub_year": "2022",
+        "citation": "ICC 2022-IEEE International Conference on Communications, 4080-4085, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:5Ul4iDaHHb8C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2804725188932551019",
+      "cites_id": [
+        "2804725188932551019"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Study of P300 Detection Performance by Different P300 Speller Approaches Using Electroencephalography",
+        "pub_year": "2022",
+        "citation": "2022 IEEE 16th International Symposium on Medical Information and \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:geHnlv5EZngC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11287638941960793700",
+      "cites_id": [
+        "11287638941960793700"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Supervised ML Biometric Continuous Authentication System for Industry 4.0",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Industrial Informatics 18 (12), 9132-9140, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:tOudhMTPpwUC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13524500702026962287",
+      "cites_id": [
+        "13524500702026962287"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Creation of a Dataset Modeling the Behavior of Malware Affecting the Confidentiality of Data Managed by IoT Devices",
+        "pub_year": "2022",
+        "citation": "Robotics and AI for Cybersecurity and Critical Infrastructure in Smart \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:738O_yMBCRsC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11309901431286102160",
+      "cites_id": [
+        "11309901431286102160"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "16 A Review of Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling",
+        "pub_year": "2021",
+        "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:pyW8ca7W8N0C",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6803163158259604391",
+      "cites_id": [
+        "6803163158259604391"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can evil IoT twins be identified? Now yes, a hardware behavioral fingerprinting methodology",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2106.08209, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:cFHS6HbyZ2cC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15256001484984836493",
+      "cites_id": [
+        "15256001484984836493"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Toward the Detection and Mitigation of Ransomware Attacks in Medical Cyber-Physical Systems (MCPSs)",
+        "pub_year": "2020",
+        "citation": "Recent Advances in Security, Privacy, and Trust for Internet of Things (IoT \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:RGFaLdJalmkC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9437316931854441314",
+      "cites_id": [
+        "9437316931854441314"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Keeping an eye on botnets in 5G networks: Detection and mitigation by NFV and SDN apps",
+        "pub_year": "2017",
+        "citation": "2017 European Conference on Networks and Communications, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:4DMP91E08xMC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12718265474943197110",
+      "cites_id": [
+        "12718265474943197110"
+      ]
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Defining and analyzing the impact of cyberattacks on novel generations of BCIs. Eight Reasons to Prioritize Brain-Computer Interface Cybersecurity",
+        "pub_year": "2023",
+        "citation": "COMMUNICATIONS OF THE ACM 66 (4), 68-78, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:SdhP9T11ey4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyzing the impact of Driving tasks when detecting emotions through brain\u2013computer interfaces",
+        "pub_year": "2023",
+        "citation": "Neural Computing and Applications, 1-19, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:VOx2b1Wkg3QC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "FederatedTrust: A Solution for Trustworthy Federated Learning",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2302.09844, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:tkaPQYYpVKoC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Robust Federated Learning for execution time-based device model identification under label-flipping attack",
+        "pub_year": "2023",
+        "citation": "Cluster Computing, 1-12, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:SP6oXDckpogC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adversarial attacks and defenses on ML-and hardware-based IoT device fingerprinting and identification",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2212.14677, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:WA5NYHcadZ8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RL and Fingerprinting to Select Moving Target Defense Mechanisms for Zero-day Attacks in IoT",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2212.14647, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Y5dfb0dijaUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Adversarial attacks and defenses on ML-and hardware-based IoT device fingerprinting and identification",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2212.14677, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Mojj43d5GZwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "When Brain-Computer Interfaces Meet the Metaverse: Landscape, Demonstrator, Trends, Challenges, and Concerns",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2212.03169, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:t6usbXjVLHcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Methodology for Evaluating the Robustness of Anomaly Detectors to Adversarial Attacks in Industrial Scenarios",
+        "pub_year": "2022",
+        "citation": "IEEE Access 10, 124582-124594, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:XiVPGOgt02cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "RITUAL: a Platform Quantifying the Trustworthiness of Supervised Machine Learning",
+        "pub_year": "2022",
+        "citation": "2022 18th International Conference on Network and Service Management (CNSM \u2026, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:5ugPr518TE4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SpecForce: A Framework to Secure IoT Spectrum Sensors in the Internet of Battlefield Things",
+        "pub_year": "2022",
+        "citation": "IEEE Communications Magazine, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:1qzjygNMrQYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trust-as-a-Service: A reputation-enabled trust framework for 5G networks",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2210.11501, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:q3oQSFYPqjQC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Privacy-preserving and Syscall-based Intrusion Detection System for IoT Spectrum Sensors Affected by Data Falsification Attacks",
+        "pub_year": "2022",
+        "citation": "IEEE Internet of Things Journal, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:D_sINldO8mEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Trust-as-a-Service: A reputation-enabled trust framework for 5G networks",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2210.11501, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:kRWSkSYxWN8C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyzing the Robustness of Decentralized Horizontal and Vertical Federated Learning Architectures in a Non-IID Scenario",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2210.11061, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:mvPsJ3kp5DgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studying Drowsiness Detection Performance while Driving through Scalable Machine Learning Models using Electroencephalography",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2209.04048, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:eJXPG6dFmWUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Analyzing the impact of Driving tasks when detecting emotions through Brain-Computer Interfaces",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2209.00993, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:fQNAKQ3IYiAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Policy-based and Behavioral Framework to Detect Ransomware Affecting Resource-constrained Sensors",
+        "pub_year": "2022",
+        "citation": "NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium, 1-7, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:4fKUyHm3Qg0C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "LwHBench: A low-level hardware component benchmark and dataset for Single Board Computers",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2204.08516, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:l7t_Zn2s7bgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors",
+        "pub_year": "2022",
+        "citation": "arXiv e-prints, arXiv: 2202.00137, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Tiz5es2fbqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Cybersecurity Risks Associated With Brain-Computer Interface Classifications",
+        "pub_year": "2022",
+        "citation": "Advances in Malware and Data-Driven Network Security, 236-259, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:dshw04ExmUIC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Robust Federated Learning for execution time-based device model identification under label-flipping attack",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2111.14434, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:uWQEDVKXjbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Secure Crowdsensing Platforms Through Device Behavior Fingerprinting",
+        "pub_year": "2021",
+        "citation": "UCLM, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:WbkHhVStYXYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Can Evil IoT Twins Be Identified? Now Yes, a Hardware Behavioral Fingerprinting Methodology",
+        "pub_year": "2021",
+        "citation": "Now Yes, a Hardware Behavioral Fingerprinting Methodology, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:yD5IFk8b50cC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Eight Reasons Why Cybersecurity on Novel Generations of Brain-Computer Interfaces Must Be Prioritized",
+        "pub_year": "2021",
+        "citation": "arXiv. org, 1-2, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:4OULZ7Gr8RgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Overview of the security and trust mechanisms in the 5GZORRO project",
+        "pub_year": "2021",
+        "citation": "EUCNC 2021, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:bFI3QPDXJZMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "15 Secure Crowdsensing Platforms Through Device Behavior Fingerprinting",
+        "pub_year": "2021",
+        "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:f2IySw72cVMC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "20 A Review of Spotting political social bots inTwitter: A use case of the 2019 Spanish general election",
+        "pub_year": "2021",
+        "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:D03iK_w7-QYC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "31 Review of MADICS: A Methodology for Anomaly Detection in Industrial Control Systems",
+        "pub_year": "2021",
+        "citation": "Ediciones de la Universidad de Castilla-La Mancha, 2021"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:a0OBvERweLwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Anomaly Detection on Encrypted and High-Performance Data Networks by Means of Machine Learning Techniques",
+        "pub_year": "2020",
+        "citation": "Recent Advances in Security, Privacy, and Trust for Internet of Things (IoT \u2026, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:HoB7MX3m0LUC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Comunicaciones Orales.-Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes.",
+        "pub_year": "2020",
+        "citation": "II Jornadas Doctorales de la Universidad de Murcia, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:RHpTSmoSYBkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "AuthCODE: A Privacy-preserving and Multi-device Continuous Authentication Architecture based on Machine and Deep Learning",
+        "pub_year": "2020",
+        "citation": "arXiv e-prints, arXiv: 2004.07877, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:_Qo2XoVZTnwC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Intelligent User Profiling Based on Sensors and Location Data to Detect Intrusions on Mobile Devices",
+        "pub_year": "2020",
+        "citation": "Handbook of Research on Intrusion Detection Systems, 1-25, 2020"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:HDshCWvjkbEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review of improving the security and QoE in mobile devices through an inteligent and adaptive continuous authentication system",
+        "pub_year": "2019",
+        "citation": "Actas de las V Jornadas Nacionales de Ciberseguridad: junio 5-7, 2019 \u2026, 2019"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:hFOr9nPyWt4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Context-Aware Systems: Protecting Sensitive Information and Controlling Network Behavior",
+        "pub_year": "2018",
+        "citation": "Computer and Cyber Security, 1-21, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:8k81kl-MbHgC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "2018 5TH INTERNATIONAL CONFERENCE ON INTERNET OF THINGS: SYSTEMS, MANAGEMENT AND SECURITY, IOTSMS 2018",
+        "pub_year": "2018",
+        "citation": "Fog 131, 138, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:bEWYMUwI8FkC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "D7. 4 Report and Functional Demonstration of the Use Cases",
+        "pub_year": "2018",
+        "citation": "SELFNET Consortium, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:7PzlFSSx8tAC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A review of Sustainable Securing of Medical Cyber-Physical Systems for Future Healthcare",
+        "pub_year": "2018",
+        "citation": "Actas de las Cuartas Jornadas Nacionales de Investigaci\u00f3n en Ciberseguridad \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:5nxA0vEk-isC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Second best student paper award: Towards Protecting Users\u2019 Sensitive Information in Context-Aware Solutions",
+        "pub_year": "2018",
+        "citation": "Actas de las Cuartas Jornadas Nacionales de Investigaci\u00f3n en Ciberseguridad \u2026, 2018"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:UebtZRa9Y70C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A proposal for user's privacy management in context-aware systems= Propuesta para la gesti\u00f3n de la privacidad de los usuarios en sistemas sensibles al contexto",
+        "pub_year": "2017",
+        "citation": "Proyecto de investigaci\u00f3n:, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:qxL8FJ1GzNcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Network Slicing en Redes M\u00f3viles 5G",
+        "pub_year": "2017",
+        "citation": "III Jornadas Doctorales Escuela Internacional de Doctorado de la Universidad \u2026, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:9vf0nzSNQJEC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A proposal for user's privacy management in context-aware systems= Propuesta para la gesti\u00f3n de la privacidad de los usuarios en sistemas sensibles al contexto",
+        "pub_year": "2017",
+        "citation": "Universidad de Murcia, 2017"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:Wp0gIr-vW9MC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes.",
+        "pub_year": "2016",
+        "citation": "II Jornadas Doctorales de la Universidad de Murcia, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:pqnbT2bcN3wC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Preserving the users\u2019 information privacy in location-based and context-aware solutions",
+        "pub_year": "2016",
+        "citation": "Actas de la jornadas nacionales de investigaci\u00f3n en ciberseguridad: Granada \u2026, 2016"
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:IjCSPb-OGe4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "A Review of Cyberattacks on Miniature Brain Implants to Disrupt Spontaneous Neural Signaling",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:dfsIfKJdRG4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "IEEE CSE 2020 Organizing and Program Committees",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:70eg2SAEIzsC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Welcome Messages from IEEE CSE 2020 Program Chairs",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:35N4QoGY0k4C",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Lorenzo Fernandez Maimo",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:lSLTfruPkqcC",
+      "num_citations": 0
+    },
+    {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "II Jornadas Doctorales de la Universidad de Murcia IA-CO-02 Plataformas sensibles al contexto para proporcionar aplicaciones inteligentes",
+        "citation": ""
+      },
+      "filled": false,
+      "author_pub_id": "IFyGj20AAAAJ:YFjsv_pBGBYC",
+      "num_citations": 0
+    }
+  ],
+  "coworkers": [],
+  "citations": [
+    "A survey on architecture, protocols and challenges in IoT",
+    "Middleware for the Internet of Things: A survey on requirements, enabling technologies, and solutions",
+    "Sybil attacks and their defenses in the internet of things",
+    "An extensive study on the evolution of context-aware personalized travel recommender systems",
+    "An energy-efficient architecture for the Internet of Things (IoT)",
+    "A context-aware middleware cloud approach for integrating precision farming facilities into the IoT toward agriculture 4.0",
+    "On perspective of security and privacy-preserving solutions in the internet of things",
+    "Discovering IoT implications in business and management: a computational thematic analysis",
+    "Context aware middleware architectures: Survey and challenges",
+    "A multivariant secure framework for smart mobile health application",
+    "A mapping of IoT user-centric privacy preserving approaches to the GDPR",
+    "The MOM of context-aware systems: A survey",
+    "Privacy of the Internet of Things: a systematic literature review (extended discussion)",
+    "Energy-efficient location and activity-aware on-demand mobile distributed sensing platform for sensing as a service in IoT clouds",
+    "IAMHAPPY: Towards an IoT knowledge-based cross-domain well-being recommendation system for everyday happiness",
+    "A survey from the perspective of evolutionary process in the internet of things",
+    "Semantic management of moving objects: A vision towards smart mobility",
+    "A holistic approach to a context-aware IoT ecosystem with Adaptive Ubiquitous Middleware",
+    "4W1H in IoT semantics",
+    "Toward a lightweight ontology for privacy protection in IoT",
+    "Internet of Things (IoT): security and privacy threats",
+    "A context-aware middleware for context modeling and reasoning: a case-study in smart cultural spaces",
+    "Recent advances in the internet of things: Multiple perspectives",
+    "The MASSIF platform: a modular and semantic platform for the development of flexible IoT services",
+    "Decentralizing privacy enforcement for Internet of Things smart objects",
+    "Requirements, Limitations and Recommendations for Enabling End-to-End Quality of Context-Awareness in IoT Middleware",
+    "On-demand deployment for IoT applications",
+    "Semantics-Driven Safety Measures in Distributed Big Data Systems on IoT",
+    "A context-aware indoor air quality system for sudden infant death syndrome prevention",
+    "Semantic interoperability in the internet of things-state-of-the-art and prospects",
+    "PRECISE: Privacy-aware recommender based on context information for cloud service environments",
+    "PROTECTOR: Towards the protection of sensitive data in Europe and the US",
+    "Enhancing user interaction with context-awareness in cultural spaces",
+    "Semantic IoT gateway: Towards automated generation of privacy-preserving smart contracts in the Internet of Things",
+    "Policy-controlled authenticated access to LLN-connected healthcare resources",
+    "Review and open challenges of public safety networks to manage emergency settings in 5G",
+    "A naturopathy knowledge graph and recommendation system to boost the immune system: KISS: Knowledge-based Immune System Suggestion",
+    "PARE: Profile-Applied Reasoning Engine for context-aware system",
+    "Unified fingerprinting/ranging localization in harsh environments",
+    "Machine Learning as an Enabler of Continuous and Adaptive Authentication in Multimedia Mobile Devices",
+    "A dynamic security policies generation model for access control in smart card based applications",
+    "MASTERY: A multicontext-aware system that preserves the users' privacy",
+    "An overview of user privacy preferences modeling and adoption",
+    "Smart Spaces Middleware: A Requirement-Oriented Overview",
+    "MODE: A context-aware IoT middleware supporting on-demand deployment for mobile devices",
+    "Secure Access to Smart Homes Using Biometric Authentication With RFID Reader for IoT Systems",
+    "What private information are you disclosing? a privacy-preserving system supervised by yourself",
+    "A detailed study on context-aware architectures in internet of things",
+    "The security and privacy aspects in semantic web enabled IoT-based healthcare information systems",
+    "Model-driven development of sensor network applications with optimization of non-functional constraints",
+    "Context-Aware Agents for IoT Services",
+    "An Extensive Survey of Privacy in the Internet of Things",
+    "Stream Data Access Control Model: The Need for Data Semantics",
+    "SBAP: A Novel Secure Bucket Access Protocol for Leveraging User's Data Privacy in Cloud Environment",
+    "Security and privacy for mobile social networks",
+    "A Fuzzy Markup Language-Based Approach for a Quality of Location Inference as An Environmental Health Awareness",
+    "Middleware Frameworks for Mobile Cloud Computing, Internet of Things and Cloud of Things: A Review",
+    "Indoor positioning knowledge model for privacy preserving context-awareness",
+    "Fuzzy Bayesian context-aware system to reduce electricity consumption",
+    "Intelligent User Profiling Based on Sensors and Location Data to Detect Intrusions on Mobile Devices",
+    "Ontology-based context-aware model for event processing in an IoT environment",
+    "A model to predict malicious data in smart home applications using deep learning algorithms",
+    "A Systematic Overview and Comparative Analysis of Service Discovery Protocols and Middlewares",
+    "Trust Management in RFID Critical Applications",
+    "Towards Enabling Internet-Scale Context-as-a-Service: A Position Paper",
+    "Towards Enabling Context-as-a-Service for Social Assistive Robotics",
+    "Indoor Positioning Knowledge Model for Privacy Preserving Context-Awareness",
+    "Digital Marketing through Physical Context Awareness",
+    "Ezennaya-Gomez-Rethinking Privacy-Knowledge Modeling: About Uncovering Accepted Data Collection Business Practices as Privacy Risks",
+    "Implementation Using Design and Development of IoT-Based Secure Data Transmission",
+    "SENS-IT: Semantic Notification of Sensory IoT Data Framework for Smart Environments",
+    "IOT INFORMATION SECURITY AND PRIVACY PROTECTION",
+    "Context-Aware Systems: Protecting Sensitive Information and Controlling Network Behavior",
+    "Privacy-Protection in Cooperative Distributed Systems",
+    "Secure and Privacy Preserving RFID Based Access Control to Smart Buildings",
+    "Curating Big Data for Health and Wellness in Cloud-centric IoT",
+    "Secure and Privacy Preserving RFID Based Access Control to Smart Buildings",
+    "Second best student paper award: Towards Protecting Users' Sensitive Information in Context-Aware Solutions",
+    "Curating Big Data for Health and Wellness in Cloudcentric IoT",
+    "Enhancing data privacy and security in Internet of Things through decentralized models and services",
+    "Toward context awareness in the cooperation of underwater robots",
+    "Mitigasi Serangan Sybil Dengan Metode Behaviour Detection Pada Jaringan Fog Computing",
+    "Preserving the users' information privacy in location-based and context-aware solutions",
+    "USPBM\u2013\u0391 SECURE POLICY-BASED MANAGEMENT FRAMEWORK FOR UBIQUITOUS SMART DEVICES",
+    "Context-Aware Profile Analyzer for Android",
+    "Energy Efficient Location and Activity-aware On-Demand Mobile Distributed Sensing Platform for Sensing as a Service in IoT Clouds",
+    "Research Article PARE: Profile-Applied Reasoning Engine for Context-Aware System",
+    "Security and Privacy Challenges in MHN",
+    "Privacy in Cooperative Distributed Systems: Modeling and Protection Framework",
+    "Unified Fingerprinting/Ranging Localization in Harsh Environments",
+    "\u0421\u041e\u0412\u0420\u0415\u041c\u0415\u041d\u041d\u042b\u0415 \u0418\u041d\u0424\u041e\u0420\u041c\u0410\u0426\u0418\u041e\u041d\u041d\u042b\u0415 \u0422\u0415\u0425\u041d\u041e\u041b\u041e\u0413\u0418\u0418",
+    "Um modelo ontol\u00f3gico e um servi\u00e7o de gerenciamento de dados de apoio \u00e0 privacidade na Internet das Coisas",
+    "WEB SEM\u00c2NTICA EM MONITORAMENTO AMBIENTAL: DESCRI\u00c7\u00c3O FORMAL DE INTERFACE DE ACESSO DE SENSORES E ATUADORES",
+    "Studi Literatur: Analisis Privasi Pada Internet of Things",
+    "A proposal for user's privacy management in context-aware systems= Propuesta para la gesti\u00f3n de la privacidad de los usuarios en sistemas sensibles al contexto",
+    "Monitoriza\u00e7\u00e3o de servi\u00e7os baseada em contexto",
+    "Dise\u00f1o de una arquitectura de localizaci\u00f3n geogr\u00e1fica para entornos de interior basada en informaci\u00f3n multisensor= a multisensor architecture for geographical \u2026",
+    "Thwarting Sybil Attack by CAM Method in WSN using Cooja Simulator Framework",
+    "RFID and biometric authentication framework for secure access to IoT based smart home",
+    "Privacy Aware Smart Objects in Internet of Things.",
+    "DELIVERABLE: D6. 9",
+    "Survey on Energy Consumption Modeling Using Topology Controlling Methods for IoT Cloud Federation"
+  ]
+}
