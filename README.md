@@ -1,6 +1,6 @@
-# Scraper
+# OSINT-LoRA-Scraper 
 
-Welcome to the Scraper project. This tool is a web scraper powered by Python and Flask. This project was entirely designed and run on a Linux operating system.
+Welcome to the OSINT-LoRA-Scraper project. Developed as part of a bachelor's thesis at the University of Zurich, this backend exemplifies the integration of Open Source Intelligence (OSINT) with LoRa data. Using data from LoRa as the foundation, our scrapers delve into LinkedIn and company employee pages to extract comprehensive information about a key subject. In addition, they aim to identify potential participants who may have been present at the time of the LoRa data capture. Crafted with Python and Flask, this project is tailored to run smoothly on a Linux operating system. 
 
 ## Prerequisites
 
