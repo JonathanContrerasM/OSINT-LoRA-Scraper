@@ -47,8 +47,8 @@ def get_linkedin_url(person_name):
 
 
 load_dotenv()  # take environment variables from .env.
-PROXYCURL_API_KEY = os.getenv("PROXYCURL_API_KEY")
-#PROXYCURL_API_KEY = 'DEMO_MODE'
+#PROXYCURL_API_KEY = os.getenv("PROXYCURL_API_KEY")
+PROXYCURL_API_KEY = 'DEMO_MODE'
 
 
 
